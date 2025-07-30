@@ -17,18 +17,22 @@
 			<string>0x8011</string>
 			<key>ApSecurityDomain</key>
 			<string>0x01</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,SubType</key>
+			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>j105aap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -64,8 +68,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
+					yPAk3+M93WO0cAgvS0ORL6Sm1vaZVvcxa/sY
+					jaG82HCzqTcnWhg+kKhp/wuA3u/r
 					</data>
 					<key>Info</key>
 					<dict>
@@ -82,7 +86,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
+						<string>Firmware/022-19506-067.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -170,8 +174,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
+					RRq6eV3tMnGRme6hteEwwdepcqTsBh8UDbGv
+					haq7KcCo/LC2TrGxd/ByMYxxbjux
 					</data>
 					<key>Info</key>
 					<dict>
@@ -188,7 +192,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19302-028.dmg</string>
+						<string>022-19506-067.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -204,210 +208,7 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			jrc82DvA/IQCB4WRBkIzP6RRito=
-			</data>
-		</dict>
-		<dict>
-			<key>Ap,ProductType</key>
-			<string>AppleTV6,2</string>
-			<key>Ap,SDKPlatform</key>
-			<string>appletvos</string>
-			<key>Ap,TargetType</key>
-			<string>j105a</string>
-			<key>ApBoardID</key>
-			<string>0x03</string>
-			<key>ApChipID</key>
-			<string>0x8011</string>
-			<key>ApSecurityDomain</key>
-			<string>0x01</string>
-			<key>Info</key>
-			<dict>
-				<key>BuildNumber</key>
-				<string>16F6</string>
-				<key>BuildTrain</key>
-				<string>GeodeF</string>
-				<key>DeviceClass</key>
-				<string>j105adev</string>
-				<key>FDRSupport</key>
-				<true/>
-				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
-				<key>SystemPartitionPadding</key>
-				<dict>
-					<key>1024</key>
-					<integer>1280</integer>
-					<key>128</key>
-					<integer>1280</integer>
-					<key>16</key>
-					<integer>160</integer>
-					<key>256</key>
-					<integer>1280</integer>
-					<key>32</key>
-					<integer>320</integer>
-					<key>512</key>
-					<integer>1280</integer>
-					<key>64</key>
-					<integer>640</integer>
-					<key>768</key>
-					<integer>1280</integer>
-					<key>8</key>
-					<integer>80</integer>
-				</dict>
-				<key>Variant</key>
-				<string>Customer tvOS Developer PDI</string>
-				<key>VariantContents</key>
-				<dict>
-					<key>PersonalizedDMG</key>
-					<string>Cryptex</string>
-				</dict>
-			</dict>
-			<key>Manifest</key>
-			<dict>
-				<key>LoadableTrustCache</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>Img4PayloadType</key>
-						<string>ltrs</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
-						<key>Personalize</key>
-						<true/>
-						<key>RestoreRequestRules</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApDemotionPolicyOverride</key>
-									<string>Demote</string>
-									<key>ApInRomDFU</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-						</array>
-					</dict>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-				<key>PersonalizedDMG</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>HashMethod</key>
-						<string>sha2-384</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>022-19302-028.dmg</string>
-						<key>Personalize</key>
-						<true/>
-					</dict>
-					<key>Name</key>
-					<string>DeveloperDiskImage</string>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
-			<key>ProductMarketingVersion</key>
-			<string>1.0</string>
-			<key>UniqueBuildID</key>
-			<data>
-			YbaZEK6R40zmvJyOy8GJTNJgHXI=
+			QRQqy9e3FSIa1HWI8Vq+GtGZqdg=
 			</data>
 		</dict>
 		<dict>
@@ -423,18 +224,22 @@
 			<string>0x8110</string>
 			<key>ApSecurityDomain</key>
 			<string>0x01</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,SubType</key>
+			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>j255ap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
 				<key>SystemPartitionPadding</key>
@@ -472,8 +277,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
+					yPAk3+M93WO0cAgvS0ORL6Sm1vaZVvcxa/sY
+					jaG82HCzqTcnWhg+kKhp/wuA3u/r
 					</data>
 					<key>Info</key>
 					<dict>
@@ -490,7 +295,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
+						<string>Firmware/022-19506-067.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -578,8 +383,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
+					RRq6eV3tMnGRme6hteEwwdepcqTsBh8UDbGv
+					haq7KcCo/LC2TrGxd/ByMYxxbjux
 					</data>
 					<key>Info</key>
 					<dict>
@@ -596,7 +401,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19302-028.dmg</string>
+						<string>022-19506-067.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -618,216 +423,7 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			ENUHleRb+UdXCFM9V4C4MH4aweA=
-			</data>
-		</dict>
-		<dict>
-			<key>Ap,ProductType</key>
-			<string>AppleTV14,1</string>
-			<key>Ap,SDKPlatform</key>
-			<string>appletvos</string>
-			<key>Ap,TargetType</key>
-			<string>j255</string>
-			<key>ApBoardID</key>
-			<string>0x03</string>
-			<key>ApChipID</key>
-			<string>0x8110</string>
-			<key>ApSecurityDomain</key>
-			<string>0x01</string>
-			<key>Info</key>
-			<dict>
-				<key>BuildNumber</key>
-				<string>16F6</string>
-				<key>BuildTrain</key>
-				<string>GeodeF</string>
-				<key>DeviceClass</key>
-				<string>j255dev</string>
-				<key>FDRSupport</key>
-				<true/>
-				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
-				<key>SystemPartitionPadding</key>
-				<dict>
-					<key>1024</key>
-					<integer>1280</integer>
-					<key>128</key>
-					<integer>1280</integer>
-					<key>16</key>
-					<integer>160</integer>
-					<key>256</key>
-					<integer>1280</integer>
-					<key>32</key>
-					<integer>320</integer>
-					<key>512</key>
-					<integer>1280</integer>
-					<key>64</key>
-					<integer>640</integer>
-					<key>768</key>
-					<integer>1280</integer>
-					<key>8</key>
-					<integer>80</integer>
-				</dict>
-				<key>Variant</key>
-				<string>Customer tvOS Developer PDI</string>
-				<key>VariantContents</key>
-				<dict>
-					<key>PersonalizedDMG</key>
-					<string>Cryptex</string>
-				</dict>
-			</dict>
-			<key>Manifest</key>
-			<dict>
-				<key>LoadableTrustCache</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>Img4PayloadType</key>
-						<string>ltrs</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
-						<key>Personalize</key>
-						<true/>
-						<key>RestoreRequestRules</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApDemotionPolicyOverride</key>
-									<string>Demote</string>
-									<key>ApInRomDFU</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-						</array>
-					</dict>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-				<key>PersonalizedDMG</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>HashMethod</key>
-						<string>sha2-384</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>022-19302-028.dmg</string>
-						<key>Personalize</key>
-						<true/>
-					</dict>
-					<key>Name</key>
-					<string>DeveloperDiskImage</string>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
-			<key>PCON1,BoardID</key>
-			<integer>4203856</integer>
-			<key>PCON1,ChipID</key>
-			<integer>32</integer>
-			<key>PCON1,SecurityDomain</key>
-			<integer>2</integer>
-			<key>ProductMarketingVersion</key>
-			<string>1.0</string>
-			<key>UniqueBuildID</key>
-			<data>
-			pGpGNvU1ULY5FSfYMcO1CbOhob4=
+			k6ioTACGbY3r56w61XCzjq1vaDI=
 			</data>
 		</dict>
 		<dict>
@@ -843,18 +439,22 @@
 			<string>0x8020</string>
 			<key>ApSecurityDomain</key>
 			<string>0x01</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,SubType</key>
+			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>j305ap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>RestoreAttestationMode</key>
 				<integer>1</integer>
 				<key>SystemPartitionPadding</key>
@@ -892,8 +492,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
+					yPAk3+M93WO0cAgvS0ORL6Sm1vaZVvcxa/sY
+					jaG82HCzqTcnWhg+kKhp/wuA3u/r
 					</data>
 					<key>Info</key>
 					<dict>
@@ -910,7 +510,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
+						<string>Firmware/022-19506-067.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -998,8 +598,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
+					RRq6eV3tMnGRme6hteEwwdepcqTsBh8UDbGv
+					haq7KcCo/LC2TrGxd/ByMYxxbjux
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1016,7 +616,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19302-028.dmg</string>
+						<string>022-19506-067.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1032,210 +632,7 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			tS9qxn+xOF9POQ3+jgBx4hI/nZc=
-			</data>
-		</dict>
-		<dict>
-			<key>Ap,ProductType</key>
-			<string>AppleTV11,1</string>
-			<key>Ap,SDKPlatform</key>
-			<string>appletvos</string>
-			<key>Ap,TargetType</key>
-			<string>j305</string>
-			<key>ApBoardID</key>
-			<string>0x09</string>
-			<key>ApChipID</key>
-			<string>0x8020</string>
-			<key>ApSecurityDomain</key>
-			<string>0x01</string>
-			<key>Info</key>
-			<dict>
-				<key>BuildNumber</key>
-				<string>16F6</string>
-				<key>BuildTrain</key>
-				<string>GeodeF</string>
-				<key>DeviceClass</key>
-				<string>j305dev</string>
-				<key>FDRSupport</key>
-				<true/>
-				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
-				<key>SystemPartitionPadding</key>
-				<dict>
-					<key>1024</key>
-					<integer>1280</integer>
-					<key>128</key>
-					<integer>1280</integer>
-					<key>16</key>
-					<integer>160</integer>
-					<key>256</key>
-					<integer>1280</integer>
-					<key>32</key>
-					<integer>320</integer>
-					<key>512</key>
-					<integer>1280</integer>
-					<key>64</key>
-					<integer>640</integer>
-					<key>768</key>
-					<integer>1280</integer>
-					<key>8</key>
-					<integer>80</integer>
-				</dict>
-				<key>Variant</key>
-				<string>Customer tvOS Developer PDI</string>
-				<key>VariantContents</key>
-				<dict>
-					<key>PersonalizedDMG</key>
-					<string>Cryptex</string>
-				</dict>
-			</dict>
-			<key>Manifest</key>
-			<dict>
-				<key>LoadableTrustCache</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					IDII3EoQPWgRCsxciZRFIaRbVb1LnyAuqKEM
-					ZNsfMW1GQ3SIviesibGFyhGs86eL
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>Img4PayloadType</key>
-						<string>ltrs</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
-						<key>Personalize</key>
-						<true/>
-						<key>RestoreRequestRules</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApDemotionPolicyOverride</key>
-									<string>Demote</string>
-									<key>ApInRomDFU</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-						</array>
-					</dict>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-				<key>PersonalizedDMG</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					Ry77QJ6yTsUzX/n05vVJV7NgJWK2wAzCUEsA
-					WuNsT3s0vIGcaPxobYTmo4aTJV+a
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>HashMethod</key>
-						<string>sha2-384</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>022-19302-028.dmg</string>
-						<key>Personalize</key>
-						<true/>
-					</dict>
-					<key>Name</key>
-					<string>DeveloperDiskImage</string>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
-			<key>ProductMarketingVersion</key>
-			<string>1.0</string>
-			<key>UniqueBuildID</key>
-			<data>
-			+NZFhPWDvnk7rgHGHST5F96bhq8=
+			pW7OEOIR1G16o5JqxW+xP8dv3TY=
 			</data>
 		</dict>
 		<dict>
@@ -1251,18 +648,22 @@
 			<string>0x7000</string>
 			<key>ApSecurityDomain</key>
 			<string>0x01</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,SubType</key>
+			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>j42dap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -1298,7 +699,7 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					o8JOjUtv2088KCUeYv4yLowGa30=
+					4cGXPjB/4lKtZtueX7MoSykz/Es=
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1315,7 +716,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
+						<string>Firmware/022-19506-067.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1403,7 +804,7 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					+yLzNxJDgGFlJgkp4AwRqF/XaVI=
+					rP6ZvnPTWZ0N4wPRLER3JosZlQQ=
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1420,7 +821,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19302-028.dmg</string>
+						<string>022-19506-067.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1436,208 +837,7 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			kycGHjpdaEqvR5ueUNsMcawYgAg=
-			</data>
-		</dict>
-		<dict>
-			<key>Ap,ProductType</key>
-			<string>AppleTV5,3</string>
-			<key>Ap,SDKPlatform</key>
-			<string>appletvos</string>
-			<key>Ap,TargetType</key>
-			<string>j42d</string>
-			<key>ApBoardID</key>
-			<string>0x35</string>
-			<key>ApChipID</key>
-			<string>0x7000</string>
-			<key>ApSecurityDomain</key>
-			<string>0x01</string>
-			<key>Info</key>
-			<dict>
-				<key>BuildNumber</key>
-				<string>16F6</string>
-				<key>BuildTrain</key>
-				<string>GeodeF</string>
-				<key>DeviceClass</key>
-				<string>j42ddev</string>
-				<key>FDRSupport</key>
-				<true/>
-				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
-				<key>SystemPartitionPadding</key>
-				<dict>
-					<key>1024</key>
-					<integer>1280</integer>
-					<key>128</key>
-					<integer>1280</integer>
-					<key>16</key>
-					<integer>160</integer>
-					<key>256</key>
-					<integer>1280</integer>
-					<key>32</key>
-					<integer>320</integer>
-					<key>512</key>
-					<integer>1280</integer>
-					<key>64</key>
-					<integer>640</integer>
-					<key>768</key>
-					<integer>1280</integer>
-					<key>8</key>
-					<integer>80</integer>
-				</dict>
-				<key>Variant</key>
-				<string>Customer tvOS Developer PDI</string>
-				<key>VariantContents</key>
-				<dict>
-					<key>PersonalizedDMG</key>
-					<string>Cryptex</string>
-				</dict>
-			</dict>
-			<key>Manifest</key>
-			<dict>
-				<key>LoadableTrustCache</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					o8JOjUtv2088KCUeYv4yLowGa30=
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>Img4PayloadType</key>
-						<string>ltrs</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>Firmware/022-19302-028.dmg.trustcache</string>
-						<key>Personalize</key>
-						<true/>
-						<key>RestoreRequestRules</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApDemotionPolicyOverride</key>
-									<string>Demote</string>
-									<key>ApInRomDFU</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-						</array>
-					</dict>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-				<key>PersonalizedDMG</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					+yLzNxJDgGFlJgkp4AwRqF/XaVI=
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>HashMethod</key>
-						<string>sha1</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>022-19302-028.dmg</string>
-						<key>Personalize</key>
-						<true/>
-					</dict>
-					<key>Name</key>
-					<string>DeveloperDiskImage</string>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
-			<key>ProductMarketingVersion</key>
-			<string>1.0</string>
-			<key>UniqueBuildID</key>
-			<data>
-			DpBBFIJXJA1zShAUvi0TQ5NuRXI=
+			1lTSW4x4nTEX2jWwx5ADeq0hZDY=
 			</data>
 		</dict>
 		<dict>
@@ -1649,6 +849,8 @@
 			<string>0xFF10</string>
 			<key>Cryptex1,NonceDomain</key>
 			<integer>4</integer>
+			<key>Cryptex1,PreauthorizationVersion</key>
+			<string>29.999.999.0.0,0</string>
 			<key>Cryptex1,ProductClass</key>
 			<string>0xF4</string>
 			<key>Cryptex1,SubType</key>
@@ -1657,18 +859,20 @@
 			<integer>3</integer>
 			<key>Cryptex1,UseProductClass</key>
 			<true/>
+			<key>Cryptex1,Version</key>
+			<string>29.999.999.0.0,0</string>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>tvoscryptexap</string>
 				<key>FDRSupport</key>
 				<false/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -1704,8 +908,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					Y4HQUaQ3IgkFI1CmwNjipHEyqPUS1G2meWJS
-					gGNUxM8RMN6COxVdeyVBTe1J25F9
+					XQGLRhfXvLgnEE+kDNguoL5XVA3qX3ngprCc
+					4cS7qTSBsAo53281YBYdgg6JVQgG
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1720,7 +924,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19275-028.dmg.cryptex_info</string>
+						<string>Firmware/022-19542-067.dmg.cryptex_info</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1808,8 +1012,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					ijNTOAKO6UKU9ORVPMQprKbbS3azV+iCN6+X
-					ZYg3fGUpP5FxRFQJz8Od3ujb+Zp1
+					NWhfP0SgwvAIPQiAON7U3pcYgGsU24mI6Tpj
+					MEi3rQ/RqSc2bvxv37QizSV2rqIo
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1826,7 +1030,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19275-028.dmg</string>
+						<string>022-19542-067.dmg</string>
 						<key>Personalize</key>
 						<false/>
 						<key>RestoreRequestRules</key>
@@ -1912,8 +1116,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					LZcw1U9x7e7NEKmKlpC9AZTOJbspq1ENet6G
-					lEGoSDmW+dsTWQKVgpDLfri9Hhk3
+					iclGtaUDzNP5BqAfeboEZvGQDdyv4/4f9LN/
+					Y97DrEDPzOwes8vi5CLlsV8B9Zbk
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1930,7 +1134,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19275-028.dmg.trustcache</string>
+						<string>Firmware/022-19542-067.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2016,8 +1220,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					JmQEhblz/xQsKAdRC32eZn3O+OWhkPnbNPT+
-					VEW+wf5kk2DjWW1zepGeUXQm8JSm
+					P/qcKeWCu7RNKIx40yuSHQMqdPvd62+U2+1J
+					o/aP2ioJHqQKa8qIQe6O4oq5aPJD
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2034,7 +1238,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19275-028.dmg.root_hash</string>
+						<string>Firmware/022-19542-067.dmg.root_hash</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2121,14 +1325,14 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			2lWa13ZtXcD7CfGiG/NPM/hifM4=
+			ENZyOtB92ad/vWc/cV5vvLudFBE=
 			</data>
 		</dict>
 	</array>
 	<key>ManifestVersion</key>
 	<integer>0</integer>
 	<key>ProductBuildVersion</key>
-	<string>16F6</string>
+	<string>17A5285i</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypes</key>

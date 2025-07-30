@@ -3,42 +3,48 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>5198</string>
+	<string>1351</string>
 	<key>Platform</key>
 	<string>iOS</string>
 	<key>ProductBuildVersion</key>
-	<string>16F6</string>
+	<string>17A5285i</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>23796</string>
+			<string>24244</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Mercury</string>
 			<key>Version</key>
-			<string>61</string>
+			<string>65</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>Playgrounds</string>
+			<key>Version</key>
+			<string>9</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>LiveExecutionResultsLogger</string>
 			<key>Version</key>
-			<string>20002</string>
+			<string>20007</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>JetsamProperties</string>
 			<key>Version</key>
-			<string>2205.115.1</string>
+			<string>2648.0.21</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>GPUToolsDevice_DDI</string>
 			<key>Version</key>
-			<string>304.6</string>
+			<string>310.30</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -56,13 +62,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>443.24</string>
+			<string>477.27</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>124.4</string>
+			<string>1082</string>
 		</dict>
 	</array>
 	<key>Variant</key>

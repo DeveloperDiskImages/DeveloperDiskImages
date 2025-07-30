@@ -23,18 +23,22 @@
 			<string>0x2016</string>
 			<key>AudioAP1,SecurityDomain</key>
 			<string>0x01</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,SubType</key>
+			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>n301ap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>RestoreAttestationMode</key>
 				<integer>2</integer>
 				<key>SystemPartitionPadding</key>
@@ -72,8 +76,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					RFPwvDkViHzEVF64Glb1ijH90e+Q8w7Le9dl
-					Bx/eqm8P3micIxNwDfOVQmlciHw+
+					z/p8x3GozAai1/s6j4Q3wak/L7kRXv0mHoUP
+					u+oggPwFdeAEdnyvjbNcXEFCTLaR
 					</data>
 					<key>Info</key>
 					<dict>
@@ -90,7 +94,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19263-028.dmg.trustcache</string>
+						<string>Firmware/022-19520-068.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -178,8 +182,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					xlO8zaxxz1CI0vk3A8lmswUdjFgb652jc9RQ
-					B9J8cYllrsrhp8BQQGvjoSmyF8wg
+					CJIlFOb/6nkex15rPuAAYrQQTPqJL1L2uK6y
+					xifBA/ObivpP7SC++49VK1M6fFim
 					</data>
 					<key>Info</key>
 					<dict>
@@ -196,7 +200,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19263-028.dmg</string>
+						<string>022-19520-068.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -248,276 +252,7 @@
 			<integer>1</integer>
 			<key>UniqueBuildID</key>
 			<data>
-			ELscQbRTxELJWB59ctJO4SyuQ8M=
-			</data>
-			<key>YonkersIR1,BoardID</key>
-			<integer>1</integer>
-			<key>YonkersIR1,ChipID</key>
-			<string>0x573</string>
-			<key>YonkersIR1,PatchEpoch</key>
-			<integer>0</integer>
-			<key>YonkersIR2,BoardID</key>
-			<integer>1</integer>
-			<key>YonkersIR2,ChipID</key>
-			<string>0x573</string>
-			<key>YonkersIR2,PatchEpoch</key>
-			<integer>0</integer>
-			<key>YonkersIR3,BoardID</key>
-			<integer>1</integer>
-			<key>YonkersIR3,ChipID</key>
-			<string>0x573</string>
-			<key>YonkersIR3,PatchEpoch</key>
-			<integer>0</integer>
-			<key>YonkersIR4,BoardID</key>
-			<integer>1</integer>
-			<key>YonkersIR4,ChipID</key>
-			<string>0x573</string>
-			<key>YonkersIR4,PatchEpoch</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>Ap,ProductType</key>
-			<string>RealityDevice14,1</string>
-			<key>Ap,SDKPlatform</key>
-			<string>xros</string>
-			<key>Ap,TargetType</key>
-			<string>n301</string>
-			<key>ApBoardID</key>
-			<string>0x43</string>
-			<key>ApChipID</key>
-			<string>0x8112</string>
-			<key>ApSecurityDomain</key>
-			<string>0x01</string>
-			<key>AudioAP1,BoardID</key>
-			<string>0x08</string>
-			<key>AudioAP1,ChipID</key>
-			<string>0x2016</string>
-			<key>AudioAP1,SecurityDomain</key>
-			<string>0x01</string>
-			<key>Info</key>
-			<dict>
-				<key>BuildNumber</key>
-				<string>16F6</string>
-				<key>BuildTrain</key>
-				<string>GeodeF</string>
-				<key>DeviceClass</key>
-				<string>n301dev</string>
-				<key>FDRSupport</key>
-				<true/>
-				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
-				<key>SystemPartitionPadding</key>
-				<dict>
-					<key>1024</key>
-					<integer>1280</integer>
-					<key>128</key>
-					<integer>1280</integer>
-					<key>16</key>
-					<integer>160</integer>
-					<key>256</key>
-					<integer>1280</integer>
-					<key>32</key>
-					<integer>320</integer>
-					<key>512</key>
-					<integer>1280</integer>
-					<key>64</key>
-					<integer>640</integer>
-					<key>768</key>
-					<integer>1280</integer>
-					<key>8</key>
-					<integer>80</integer>
-				</dict>
-				<key>Variant</key>
-				<string>Customer xrOS Developer PDI</string>
-				<key>VariantContents</key>
-				<dict>
-					<key>PersonalizedDMG</key>
-					<string>Cryptex</string>
-				</dict>
-			</dict>
-			<key>Manifest</key>
-			<dict>
-				<key>LoadableTrustCache</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					RFPwvDkViHzEVF64Glb1ijH90e+Q8w7Le9dl
-					Bx/eqm8P3micIxNwDfOVQmlciHw+
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>Img4PayloadType</key>
-						<string>ltrs</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>Firmware/022-19263-028.dmg.trustcache</string>
-						<key>Personalize</key>
-						<true/>
-						<key>RestoreRequestRules</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>EPRO</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApCurrentProductionMode</key>
-									<true/>
-									<key>ApDemotionPolicyOverride</key>
-									<string>Demote</string>
-									<key>ApInRomDFU</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<false/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<false/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-							<dict>
-								<key>Actions</key>
-								<dict>
-									<key>ESEC</key>
-									<true/>
-								</dict>
-								<key>Conditions</key>
-								<dict>
-									<key>ApRawSecurityMode</key>
-									<true/>
-									<key>ApRequiresImage4</key>
-									<true/>
-								</dict>
-							</dict>
-						</array>
-					</dict>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-				<key>PersonalizedDMG</key>
-				<dict>
-					<key>Digest</key>
-					<data>
-					xlO8zaxxz1CI0vk3A8lmswUdjFgb652jc9RQ
-					B9J8cYllrsrhp8BQQGvjoSmyF8wg
-					</data>
-					<key>Info</key>
-					<dict>
-						<key>HashMethod</key>
-						<string>sha2-384</string>
-						<key>IsFTAB</key>
-						<false/>
-						<key>IsLoadedByiBoot</key>
-						<false/>
-						<key>IsLoadedByiBootStage1</key>
-						<false/>
-						<key>IsiBootEANFirmware</key>
-						<false/>
-						<key>IsiBootNonEssentialFirmware</key>
-						<false/>
-						<key>Path</key>
-						<string>022-19263-028.dmg</string>
-						<key>Personalize</key>
-						<true/>
-					</dict>
-					<key>Name</key>
-					<string>DeveloperDiskImage</string>
-					<key>Trusted</key>
-					<true/>
-				</dict>
-			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
-			<key>PearlCertificationRootPub</key>
-			<data>
-			BEBGXhKwc7q3iFvkUoGDP6j2drpxSCxsSCODaDQIqGwd53wZJ0xI
-			JIv0RTf2TS7+/u4KzhrANzb19r+TQzwqFJMphp3mI3yY4pukIFc/
-			kWS7DLQAx/ftWBXX6vl4ig3wEg==
-			</data>
-			<key>ProductMarketingVersion</key>
-			<string>1.0</string>
-			<key>SE,ChipID</key>
-			<string>0xD2</string>
-			<key>Savage,ChipID</key>
-			<string>0x01</string>
-			<key>Savage,PatchEpoch</key>
-			<string>0x00</string>
-			<key>Timer,BoardID,1</key>
-			<integer>3</integer>
-			<key>Timer,BoardID,2</key>
-			<integer>3</integer>
-			<key>Timer,BoardID,3</key>
-			<integer>3</integer>
-			<key>Timer,BoardID,4</key>
-			<integer>3</integer>
-			<key>Timer,ChipID,1</key>
-			<integer>26112</integer>
-			<key>Timer,ChipID,2</key>
-			<integer>26112</integer>
-			<key>Timer,ChipID,3</key>
-			<integer>26112</integer>
-			<key>Timer,ChipID,4</key>
-			<integer>26112</integer>
-			<key>Timer,SecurityDomain,1</key>
-			<integer>1</integer>
-			<key>Timer,SecurityDomain,2</key>
-			<integer>1</integer>
-			<key>Timer,SecurityDomain,3</key>
-			<integer>1</integer>
-			<key>Timer,SecurityDomain,4</key>
-			<integer>1</integer>
-			<key>UniqueBuildID</key>
-			<data>
-			eeIoKIDNMxpZzKep6Klayvwwu48=
+			tQRx+EIXw5ptt02y4a1t/jH+U54=
 			</data>
 			<key>YonkersIR1,BoardID</key>
 			<integer>1</integer>
@@ -553,6 +288,8 @@
 			<string>0xFF10</string>
 			<key>Cryptex1,NonceDomain</key>
 			<integer>4</integer>
+			<key>Cryptex1,PreauthorizationVersion</key>
+			<string>29.999.999.0.0,0</string>
 			<key>Cryptex1,ProductClass</key>
 			<string>0xF5</string>
 			<key>Cryptex1,SubType</key>
@@ -561,18 +298,20 @@
 			<integer>3</integer>
 			<key>Cryptex1,UseProductClass</key>
 			<true/>
+			<key>Cryptex1,Version</key>
+			<string>29.999.999.0.0,0</string>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>16F6</string>
+				<string>17A5285i</string>
 				<key>BuildTrain</key>
-				<string>GeodeF</string>
+				<string>WonderSeed</string>
 				<key>DeviceClass</key>
 				<string>xroscryptexap</string>
 				<key>FDRSupport</key>
 				<false/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1774</string>
+				<string>1810</string>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -608,8 +347,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					Y4HQUaQ3IgkFI1CmwNjipHEyqPUS1G2meWJS
-					gGNUxM8RMN6COxVdeyVBTe1J25F9
+					XQGLRhfXvLgnEE+kDNguoL5XVA3qX3ngprCc
+					4cS7qTSBsAo53281YBYdgg6JVQgG
 					</data>
 					<key>Info</key>
 					<dict>
@@ -624,7 +363,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19299-028.dmg.cryptex_info</string>
+						<string>Firmware/022-19536-069.dmg.cryptex_info</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -712,8 +451,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					sTmMOAjg7pYzOAk957yxf4sZVzGzsiWNkVqi
-					90m30tXHUsIC4HJqTVbiyXZnE+9E
+					9QcWzWWW8WaUjBUYpqQ1gdVXclmNbJ5pzCcC
+					vMcUCD6aWJewDBie0DCQm11gOlx5
 					</data>
 					<key>Info</key>
 					<dict>
@@ -730,7 +469,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19299-028.dmg</string>
+						<string>022-19536-069.dmg</string>
 						<key>Personalize</key>
 						<false/>
 						<key>RestoreRequestRules</key>
@@ -816,8 +555,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					PT9i8y9GngI1VUqbRm4pDzhbMMbfXHzud8xu
-					+PoDIAUcOKCdvHttOy0+JXiN5sbD
+					g0JCIZPJXnc3JSYlTHwDennoO2uCywSqQAzX
+					S8VvglDCgN6oyYT27v9+a4RmdHHE
 					</data>
 					<key>Info</key>
 					<dict>
@@ -834,7 +573,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19299-028.dmg.trustcache</string>
+						<string>Firmware/022-19536-069.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -920,8 +659,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					ChvhM/bbGCw/kCQ6dh7y1Zkb6wnlsHtKuBUA
-					dp7guY6z8m8HAxKI21Y1CagF8Zgg
+					TmDar90HbN2WKvnFu7DOnImfMGCITNajbUaP
+					Lf3fhr3z7H55yX02q/69+2DinrUS
 					</data>
 					<key>Info</key>
 					<dict>
@@ -938,7 +677,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19299-028.dmg.root_hash</string>
+						<string>Firmware/022-19536-069.dmg.root_hash</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1027,14 +766,14 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			xfe0AVIZWPMKedQ+I2SgEW4dcPY=
+			A0TOqMIbOrT9y0VYZE6wu4tWaFM=
 			</data>
 		</dict>
 	</array>
 	<key>ManifestVersion</key>
 	<integer>0</integer>
 	<key>ProductBuildVersion</key>
-	<string>16F6</string>
+	<string>17A5285i</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypes</key>

@@ -6,23 +6,23 @@
 	<array>
 		<dict>
 			<key>BDID</key>
-			<integer>12</integer>
+			<integer>65535</integer>
 			<key>BoardConfig</key>
-			<string>d101ap</string>
+			<string>ioscryptexap</string>
 			<key>CPID</key>
-			<integer>32784</integer>
+			<integer>65296</integer>
 			<key>Platform</key>
-			<string>t8010</string>
+			<string>cryptex1</string>
 			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
 			<integer>1</integer>
+			<key>SDOM</key>
+			<integer>65535</integer>
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
+			<integer>12</integer>
 			<key>BoardConfig</key>
-			<string>d101dev</string>
+			<string>d101ap</string>
 			<key>CPID</key>
 			<integer>32784</integer>
 			<key>Platform</key>
@@ -48,37 +48,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>d10dev</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>d111ap</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d111dev</string>
 			<key>CPID</key>
 			<integer>32784</integer>
 			<key>Platform</key>
@@ -104,37 +76,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d11dev</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>8</integer>
 			<key>BoardConfig</key>
 			<string>d16ap</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>d16dev</string>
 			<key>CPID</key>
 			<integer>33040</integer>
 			<key>Platform</key>
@@ -160,37 +104,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d17dev</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>d201ap</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d201dev</string>
 			<key>CPID</key>
 			<integer>32789</integer>
 			<key>Platform</key>
@@ -216,37 +132,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>3</integer>
-			<key>BoardConfig</key>
-			<string>d20dev</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>d211ap</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>d211dev</string>
 			<key>CPID</key>
 			<integer>32789</integer>
 			<key>Platform</key>
@@ -272,37 +160,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>d21dev</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>d221ap</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d221dev</string>
 			<key>CPID</key>
 			<integer>32789</integer>
 			<key>Platform</key>
@@ -328,37 +188,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>d22dev</string>
-			<key>CPID</key>
-			<integer>32789</integer>
-			<key>Platform</key>
-			<string>t8015</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>24</integer>
 			<key>BoardConfig</key>
 			<string>d27ap</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>25</integer>
-			<key>BoardConfig</key>
-			<string>d27dev</string>
 			<key>CPID</key>
 			<integer>33040</integer>
 			<key>Platform</key>
@@ -384,37 +216,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>d28dev</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>d321ap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d321dev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -440,37 +244,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d331dev</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>26</integer>
 			<key>BoardConfig</key>
 			<string>d331pap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>d331pdev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -496,37 +272,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>d37dev</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>d38ap</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d38dev</string>
 			<key>CPID</key>
 			<integer>33056</integer>
 			<key>Platform</key>
@@ -552,37 +300,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>d421dev</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>2</integer>
 			<key>BoardConfig</key>
 			<string>d431ap</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>3</integer>
-			<key>BoardConfig</key>
-			<string>d431dev</string>
 			<key>CPID</key>
 			<integer>32816</integer>
 			<key>Platform</key>
@@ -608,37 +328,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>d47dev</string>
-			<key>CPID</key>
-			<integer>33088</integer>
-			<key>Platform</key>
-			<string>t8140</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>d48ap</string>
-			<key>CPID</key>
-			<integer>33088</integer>
-			<key>Platform</key>
-			<string>t8140</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d48dev</string>
 			<key>CPID</key>
 			<integer>33088</integer>
 			<key>Platform</key>
@@ -664,37 +356,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>d49dev</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>d52gap</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>d52gdev</string>
 			<key>CPID</key>
 			<integer>33025</integer>
 			<key>Platform</key>
@@ -720,37 +384,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>d53gdev</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>d53pap</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d53pdev</string>
 			<key>CPID</key>
 			<integer>33025</integer>
 			<key>Platform</key>
@@ -776,37 +412,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>d54pdev</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>d63ap</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>d63dev</string>
 			<key>CPID</key>
 			<integer>33040</integer>
 			<key>Platform</key>
@@ -832,37 +440,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d64dev</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>d73ap</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>d73dev</string>
 			<key>CPID</key>
 			<integer>33056</integer>
 			<key>Platform</key>
@@ -888,37 +468,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d74dev</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>16</integer>
 			<key>BoardConfig</key>
 			<string>d79ap</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>d79dev</string>
 			<key>CPID</key>
 			<integer>32816</integer>
 			<key>Platform</key>
@@ -944,37 +496,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>d83dev</string>
-			<key>CPID</key>
-			<integer>33072</integer>
-			<key>Platform</key>
-			<string>t8130</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>6</integer>
 			<key>BoardConfig</key>
 			<string>d84ap</string>
-			<key>CPID</key>
-			<integer>33072</integer>
-			<key>Platform</key>
-			<string>t8130</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>d84dev</string>
 			<key>CPID</key>
 			<integer>33072</integer>
 			<key>Platform</key>
@@ -1000,20 +524,6 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>d93dev</string>
-			<key>CPID</key>
-			<integer>33088</integer>
-			<key>Platform</key>
-			<string>t8140</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>d94ap</string>
@@ -1028,51 +538,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>d94dev</string>
-			<key>CPID</key>
-			<integer>33088</integer>
-			<key>Platform</key>
-			<string>t8140</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>65535</integer>
-			<key>BoardConfig</key>
-			<string>ioscryptexap</string>
-			<key>CPID</key>
-			<integer>65296</integer>
-			<key>Platform</key>
-			<string>cryptex1</string>
-			<key>SCEP</key>
-			<integer>1</integer>
-			<key>SDOM</key>
-			<integer>65535</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>j120ap</string>
-			<key>CPID</key>
-			<integer>32785</integer>
-			<key>Platform</key>
-			<string>t8011</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j120dev</string>
 			<key>CPID</key>
 			<integer>32785</integer>
 			<key>Platform</key>
@@ -1098,37 +566,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j121dev</string>
-			<key>CPID</key>
-			<integer>32785</integer>
-			<key>Platform</key>
-			<string>t8011</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>36</integer>
 			<key>BoardConfig</key>
 			<string>j126bap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>37</integer>
-			<key>BoardConfig</key>
-			<string>j126bdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -1154,37 +594,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>j126ddev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>8</integer>
 			<key>BoardConfig</key>
 			<string>j127ap</string>
-			<key>CPID</key>
-			<integer>32769</integer>
-			<key>Platform</key>
-			<string>s8001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j127dev</string>
 			<key>CPID</key>
 			<integer>32769</integer>
 			<key>Platform</key>
@@ -1210,37 +622,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j128dev</string>
-			<key>CPID</key>
-			<integer>32769</integer>
-			<key>Platform</key>
-			<string>s8001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>36</integer>
 			<key>BoardConfig</key>
 			<string>j171aap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>37</integer>
-			<key>BoardConfig</key>
-			<string>j171adev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -1266,37 +650,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>29</integer>
-			<key>BoardConfig</key>
-			<string>j171dev</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>38</integer>
 			<key>BoardConfig</key>
 			<string>j172aap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>39</integer>
-			<key>BoardConfig</key>
-			<string>j172adev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -1322,37 +678,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>31</integer>
-			<key>BoardConfig</key>
-			<string>j172dev</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>24</integer>
 			<key>BoardConfig</key>
 			<string>j181ap</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>25</integer>
-			<key>BoardConfig</key>
-			<string>j181dev</string>
 			<key>CPID</key>
 			<integer>32816</integer>
 			<key>Platform</key>
@@ -1378,37 +706,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>j182dev</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>j207ap</string>
-			<key>CPID</key>
-			<integer>32785</integer>
-			<key>Platform</key>
-			<string>t8011</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>j207dev</string>
 			<key>CPID</key>
 			<integer>32785</integer>
 			<key>Platform</key>
@@ -1434,37 +734,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>j208dev</string>
-			<key>CPID</key>
-			<integer>32785</integer>
-			<key>Platform</key>
-			<string>t8011</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>20</integer>
 			<key>BoardConfig</key>
 			<string>j210ap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>21</integer>
-			<key>BoardConfig</key>
-			<string>j210dev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -1490,37 +762,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>23</integer>
-			<key>BoardConfig</key>
-			<string>j211dev</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>28</integer>
 			<key>BoardConfig</key>
 			<string>j217ap</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>29</integer>
-			<key>BoardConfig</key>
-			<string>j217dev</string>
 			<key>CPID</key>
 			<integer>32800</integer>
 			<key>Platform</key>
@@ -1546,37 +790,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>31</integer>
-			<key>BoardConfig</key>
-			<string>j218dev</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>44</integer>
 			<key>BoardConfig</key>
 			<string>j236bap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>45</integer>
-			<key>BoardConfig</key>
-			<string>j236bdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -1602,37 +818,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>j236cdev</string>
-			<key>CPID</key>
-			<integer>24610</integer>
-			<key>Platform</key>
-			<string>t6022</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>20</integer>
 			<key>BoardConfig</key>
 			<string>j271ap</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>21</integer>
-			<key>BoardConfig</key>
-			<string>j271dev</string>
 			<key>CPID</key>
 			<integer>33025</integer>
 			<key>Platform</key>
@@ -1658,37 +846,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>23</integer>
-			<key>BoardConfig</key>
-			<string>j272dev</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>j307ap</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>j307dev</string>
 			<key>CPID</key>
 			<integer>33025</integer>
 			<key>Platform</key>
@@ -1714,37 +874,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>j308dev</string>
-			<key>CPID</key>
-			<integer>33025</integer>
-			<key>Platform</key>
-			<string>t8101</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>j310ap</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>j310dev</string>
 			<key>CPID</key>
 			<integer>33040</integer>
 			<key>Platform</key>
@@ -1770,37 +902,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>j311dev</string>
-			<key>CPID</key>
-			<integer>33040</integer>
-			<key>Platform</key>
-			<string>t8110</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>j317ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j317dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -1826,37 +930,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>29</integer>
-			<key>BoardConfig</key>
-			<string>j317xdev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>j318ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j318dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -1882,37 +958,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>31</integer>
-			<key>BoardConfig</key>
-			<string>j318xdev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>8</integer>
 			<key>BoardConfig</key>
 			<string>j320ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j320dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -1938,37 +986,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>25</integer>
-			<key>BoardConfig</key>
-			<string>j320xdev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j321ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j321dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -1994,37 +1014,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>j321xdev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>16</integer>
 			<key>BoardConfig</key>
 			<string>j407ap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j407dev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -2050,37 +1042,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j408dev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>8</integer>
 			<key>BoardConfig</key>
 			<string>j410ap</string>
-			<key>CPID</key>
-			<integer>33072</integer>
-			<key>Platform</key>
-			<string>t8130</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j410dev</string>
 			<key>CPID</key>
 			<integer>33072</integer>
 			<key>Platform</key>
@@ -2106,37 +1070,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j411dev</string>
-			<key>CPID</key>
-			<integer>33072</integer>
-			<key>Platform</key>
-			<string>t8130</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>60</integer>
 			<key>BoardConfig</key>
 			<string>j417ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>61</integer>
-			<key>BoardConfig</key>
-			<string>j417dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -2162,37 +1098,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>63</integer>
-			<key>BoardConfig</key>
-			<string>j418dev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>56</integer>
 			<key>BoardConfig</key>
 			<string>j420ap</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>57</integer>
-			<key>BoardConfig</key>
-			<string>j420dev</string>
 			<key>CPID</key>
 			<integer>32807</integer>
 			<key>Platform</key>
@@ -2218,37 +1126,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>59</integer>
-			<key>BoardConfig</key>
-			<string>j421dev</string>
-			<key>CPID</key>
-			<integer>32807</integer>
-			<key>Platform</key>
-			<string>t8027</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j475dap</string>
-			<key>CPID</key>
-			<integer>24610</integer>
-			<key>Platform</key>
-			<string>t6022</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j475ddev</string>
 			<key>CPID</key>
 			<integer>24610</integer>
 			<key>Platform</key>
@@ -2274,37 +1154,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j481dev</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>18</integer>
 			<key>BoardConfig</key>
 			<string>j482ap</string>
-			<key>CPID</key>
-			<integer>33056</integer>
-			<key>Platform</key>
-			<string>t8120</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j482dev</string>
 			<key>CPID</key>
 			<integer>33056</integer>
 			<key>Platform</key>
@@ -2330,37 +1182,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j507dev</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>18</integer>
 			<key>BoardConfig</key>
 			<string>j508ap</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j508dev</string>
 			<key>CPID</key>
 			<integer>33042</integer>
 			<key>Platform</key>
@@ -2386,37 +1210,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j517dev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j517xap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j517xdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -2442,37 +1238,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j518dev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>j518xap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j518xdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -2498,37 +1266,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>25</integer>
-			<key>BoardConfig</key>
-			<string>j522dev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>26</integer>
 			<key>BoardConfig</key>
 			<string>j522xap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>j522xdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -2554,37 +1294,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>29</integer>
-			<key>BoardConfig</key>
-			<string>j523dev</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>30</integer>
 			<key>BoardConfig</key>
 			<string>j523xap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>31</integer>
-			<key>BoardConfig</key>
-			<string>j523xdev</string>
 			<key>CPID</key>
 			<integer>33027</integer>
 			<key>Platform</key>
@@ -2610,37 +1322,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>21</integer>
-			<key>BoardConfig</key>
-			<string>j537dev</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>22</integer>
 			<key>BoardConfig</key>
 			<string>j538ap</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>23</integer>
-			<key>BoardConfig</key>
-			<string>j538dev</string>
 			<key>CPID</key>
 			<integer>33042</integer>
 			<key>Platform</key>
@@ -2666,37 +1350,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j607dev</string>
-			<key>CPID</key>
-			<integer>33058</integer>
-			<key>Platform</key>
-			<string>t8122</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j608ap</string>
-			<key>CPID</key>
-			<integer>33058</integer>
-			<key>Platform</key>
-			<string>t8122</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j608dev</string>
 			<key>CPID</key>
 			<integer>33058</integer>
 			<key>Platform</key>
@@ -2722,37 +1378,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j617dev</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j618ap</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j618dev</string>
 			<key>CPID</key>
 			<integer>33042</integer>
 			<key>Platform</key>
@@ -2778,37 +1406,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j620dev</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>j621ap</string>
-			<key>CPID</key>
-			<integer>33042</integer>
-			<key>Platform</key>
-			<string>t8112</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j621dev</string>
 			<key>CPID</key>
 			<integer>33042</integer>
 			<key>Platform</key>
@@ -2834,37 +1434,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j637dev</string>
-			<key>CPID</key>
-			<integer>33058</integer>
-			<key>Platform</key>
-			<string>t8122</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>14</integer>
 			<key>BoardConfig</key>
 			<string>j638ap</string>
-			<key>CPID</key>
-			<integer>33058</integer>
-			<key>Platform</key>
-			<string>t8122</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j638dev</string>
 			<key>CPID</key>
 			<integer>33058</integer>
 			<key>Platform</key>
@@ -2890,37 +1462,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j717dev</string>
-			<key>CPID</key>
-			<integer>33074</integer>
-			<key>Platform</key>
-			<string>t8132</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j718ap</string>
-			<key>CPID</key>
-			<integer>33074</integer>
-			<key>Platform</key>
-			<string>t8132</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j718dev</string>
 			<key>CPID</key>
 			<integer>33074</integer>
 			<key>Platform</key>
@@ -2946,37 +1490,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>25</integer>
-			<key>BoardConfig</key>
-			<string>j71bdev</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>16</integer>
 			<key>BoardConfig</key>
 			<string>j71sap</string>
-			<key>CPID</key>
-			<integer>32768</integer>
-			<key>Platform</key>
-			<string>s8000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j71sdev</string>
 			<key>CPID</key>
 			<integer>32768</integer>
 			<key>Platform</key>
@@ -3002,37 +1518,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j71tdev</string>
-			<key>CPID</key>
-			<integer>32771</integer>
-			<key>Platform</key>
-			<string>s8003</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>j720ap</string>
-			<key>CPID</key>
-			<integer>33074</integer>
-			<key>Platform</key>
-			<string>t8132</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>j720dev</string>
 			<key>CPID</key>
 			<integer>33074</integer>
 			<key>Platform</key>
@@ -3058,37 +1546,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>15</integer>
-			<key>BoardConfig</key>
-			<string>j721dev</string>
-			<key>CPID</key>
-			<integer>33074</integer>
-			<key>Platform</key>
-			<string>t8132</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>26</integer>
 			<key>BoardConfig</key>
 			<string>j72bap</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>27</integer>
-			<key>BoardConfig</key>
-			<string>j72bdev</string>
 			<key>CPID</key>
 			<integer>32784</integer>
 			<key>Platform</key>
@@ -3114,37 +1574,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j72sdev</string>
-			<key>CPID</key>
-			<integer>32768</integer>
-			<key>Platform</key>
-			<string>s8000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>18</integer>
 			<key>BoardConfig</key>
 			<string>j72tap</string>
-			<key>CPID</key>
-			<integer>32771</integer>
-			<key>Platform</key>
-			<string>s8003</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j72tdev</string>
 			<key>CPID</key>
 			<integer>32771</integer>
 			<key>Platform</key>
@@ -3170,37 +1602,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>j81dev</string>
-			<key>CPID</key>
-			<integer>28673</integer>
-			<key>Platform</key>
-			<string>t7001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>2</integer>
 			<key>BoardConfig</key>
 			<string>j82ap</string>
-			<key>CPID</key>
-			<integer>28673</integer>
-			<key>Platform</key>
-			<string>t7001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>3</integer>
-			<key>BoardConfig</key>
-			<string>j82dev</string>
 			<key>CPID</key>
 			<integer>28673</integer>
 			<key>Platform</key>
@@ -3226,37 +1630,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>9</integer>
-			<key>BoardConfig</key>
-			<string>j96dev</string>
-			<key>CPID</key>
-			<integer>28672</integer>
-			<key>Platform</key>
-			<string>t7000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>10</integer>
 			<key>BoardConfig</key>
 			<string>j97ap</string>
-			<key>CPID</key>
-			<integer>28672</integer>
-			<key>Platform</key>
-			<string>t7000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>11</integer>
-			<key>BoardConfig</key>
-			<string>j97dev</string>
 			<key>CPID</key>
 			<integer>28672</integer>
 			<key>Platform</key>
@@ -3282,37 +1658,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>17</integer>
-			<key>BoardConfig</key>
-			<string>j98adev</string>
-			<key>CPID</key>
-			<integer>32769</integer>
-			<key>Platform</key>
-			<string>s8001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>18</integer>
 			<key>BoardConfig</key>
 			<string>j99aap</string>
-			<key>CPID</key>
-			<integer>32769</integer>
-			<key>Platform</key>
-			<string>s8001</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>19</integer>
-			<key>BoardConfig</key>
-			<string>j99adev</string>
 			<key>CPID</key>
 			<integer>32769</integer>
 			<key>Platform</key>
@@ -3338,37 +1686,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>n104dev</string>
-			<key>CPID</key>
-			<integer>32816</integer>
-			<key>Platform</key>
-			<string>t8030</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>22</integer>
 			<key>BoardConfig</key>
 			<string>n112ap</string>
-			<key>CPID</key>
-			<integer>32784</integer>
-			<key>Platform</key>
-			<string>t8010</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>23</integer>
-			<key>BoardConfig</key>
-			<string>n112dev</string>
 			<key>CPID</key>
 			<integer>32784</integer>
 			<key>Platform</key>
@@ -3394,37 +1714,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>n66dev</string>
-			<key>CPID</key>
-			<integer>32768</integer>
-			<key>Platform</key>
-			<string>s8000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>6</integer>
 			<key>BoardConfig</key>
 			<string>n66map</string>
-			<key>CPID</key>
-			<integer>32771</integer>
-			<key>Platform</key>
-			<string>s8003</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>7</integer>
-			<key>BoardConfig</key>
-			<string>n66mdev</string>
 			<key>CPID</key>
 			<integer>32771</integer>
 			<key>Platform</key>
@@ -3450,37 +1742,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>3</integer>
-			<key>BoardConfig</key>
-			<string>n69dev</string>
-			<key>CPID</key>
-			<integer>32771</integer>
-			<key>Platform</key>
-			<string>s8003</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>2</integer>
 			<key>BoardConfig</key>
 			<string>n69uap</string>
-			<key>CPID</key>
-			<integer>32768</integer>
-			<key>Platform</key>
-			<string>s8000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>3</integer>
-			<key>BoardConfig</key>
-			<string>n69udev</string>
 			<key>CPID</key>
 			<integer>32768</integer>
 			<key>Platform</key>
@@ -3506,37 +1770,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>n71dev</string>
-			<key>CPID</key>
-			<integer>32768</integer>
-			<key>Platform</key>
-			<string>s8000</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>n71map</string>
-			<key>CPID</key>
-			<integer>32771</integer>
-			<key>Platform</key>
-			<string>s8003</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>n71mdev</string>
 			<key>CPID</key>
 			<integer>32771</integer>
 			<key>Platform</key>
@@ -3562,37 +1798,9 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>13</integer>
-			<key>BoardConfig</key>
-			<string>n841dev</string>
-			<key>CPID</key>
-			<integer>32800</integer>
-			<key>Platform</key>
-			<string>t8020</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>v59ap</string>
-			<key>CPID</key>
-			<integer>33088</integer>
-			<key>Platform</key>
-			<string>t8140</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>5</integer>
-			<key>BoardConfig</key>
-			<string>v59dev</string>
 			<key>CPID</key>
 			<integer>33088</integer>
 			<key>Platform</key>
@@ -3618,7 +1826,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>16F6</string>
+	<string>17A5285i</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -3630,11 +1838,6 @@
 			<integer>33587203</integer>
 			<integer>33587221</integer>
 			<integer>33587248</integer>
-			<integer>50360321</integer>
-			<integer>50364416</integer>
-			<integer>50364419</integer>
-			<integer>50364437</integer>
-			<integer>50364464</integer>
 			<integer>67141632</integer>
 			<integer>67141635</integer>
 			<integer>67141649</integer>
@@ -3645,16 +1848,6 @@
 			<integer>67141904</integer>
 			<integer>67141936</integer>
 			<integer>67141952</integer>
-			<integer>83918848</integer>
-			<integer>83918851</integer>
-			<integer>83918865</integer>
-			<integer>83918869</integer>
-			<integer>83918896</integer>
-			<integer>83919105</integer>
-			<integer>83919107</integer>
-			<integer>83919120</integer>
-			<integer>83919152</integer>
-			<integer>83919168</integer>
 			<integer>100687906</integer>
 			<integer>100691969</integer>
 			<integer>100696064</integer>
@@ -3665,16 +1858,6 @@
 			<integer>100696321</integer>
 			<integer>100696336</integer>
 			<integer>100696368</integer>
-			<integer>117465122</integer>
-			<integer>117469185</integer>
-			<integer>117473280</integer>
-			<integer>117473283</integer>
-			<integer>117473297</integer>
-			<integer>117473301</integer>
-			<integer>117473328</integer>
-			<integer>117473537</integer>
-			<integer>117473552</integer>
-			<integer>117473584</integer>
 			<integer>134246400</integer>
 			<integer>134250497</integer>
 			<integer>134250512</integer>
@@ -3688,19 +1871,6 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
-			<integer>151023616</integer>
-			<integer>151027713</integer>
-			<integer>151027728</integer>
-			<integer>151027751</integer>
-			<integer>151027969</integer>
-			<integer>151027971</integer>
-			<integer>151027984</integer>
-			<integer>151027986</integer>
-			<integer>151028000</integer>
-			<integer>151028002</integer>
-			<integer>151028016</integer>
-			<integer>151028018</integer>
-			<integer>151028032</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
 			<integer>167804929</integer>
@@ -3717,22 +1887,6 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
-			<integer>184573986</integer>
-			<integer>184578048</integer>
-			<integer>184582145</integer>
-			<integer>184582160</integer>
-			<integer>184582165</integer>
-			<integer>184582176</integer>
-			<integer>184582183</integer>
-			<integer>184582401</integer>
-			<integer>184582403</integer>
-			<integer>184582416</integer>
-			<integer>184582418</integer>
-			<integer>184582432</integer>
-			<integer>184582434</integer>
-			<integer>184582448</integer>
-			<integer>184582450</integer>
-			<integer>184582464</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
 			<integer>201359381</integer>
@@ -3746,19 +1900,6 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
-			<integer>218136592</integer>
-			<integer>218136593</integer>
-			<integer>218136597</integer>
-			<integer>218136608</integer>
-			<integer>218136615</integer>
-			<integer>218136833</integer>
-			<integer>218136835</integer>
-			<integer>218136848</integer>
-			<integer>218136850</integer>
-			<integer>218136864</integer>
-			<integer>218136866</integer>
-			<integer>218136882</integer>
-			<integer>218136896</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
 			<integer>234913813</integer>
@@ -3772,19 +1913,6 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
-			<integer>251691024</integer>
-			<integer>251691025</integer>
-			<integer>251691029</integer>
-			<integer>251691040</integer>
-			<integer>251691047</integer>
-			<integer>251691265</integer>
-			<integer>251691267</integer>
-			<integer>251691280</integer>
-			<integer>251691282</integer>
-			<integer>251691296</integer>
-			<integer>251691298</integer>
-			<integer>251691314</integer>
-			<integer>251691328</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
 			<integer>268468227</integer>
@@ -3793,94 +1921,46 @@
 			<integer>268468496</integer>
 			<integer>268468498</integer>
 			<integer>268468512</integer>
-			<integer>285245440</integer>
-			<integer>285245441</integer>
-			<integer>285245443</integer>
-			<integer>285245488</integer>
-			<integer>285245699</integer>
-			<integer>285245712</integer>
-			<integer>285245714</integer>
-			<integer>285245728</integer>
 			<integer>302022656</integer>
 			<integer>302022657</integer>
 			<integer>302022659</integer>
 			<integer>302022915</integer>
 			<integer>302022930</integer>
 			<integer>302022944</integer>
-			<integer>318799872</integer>
-			<integer>318799873</integer>
-			<integer>318799875</integer>
-			<integer>318800131</integer>
-			<integer>318800146</integer>
-			<integer>318800160</integer>
 			<integer>335577120</integer>
 			<integer>335577345</integer>
 			<integer>335577362</integer>
-			<integer>352354336</integer>
-			<integer>352354561</integer>
-			<integer>352354578</integer>
 			<integer>369131536</integer>
 			<integer>369131552</integer>
 			<integer>369131777</integer>
 			<integer>369131794</integer>
-			<integer>385908752</integer>
-			<integer>385908768</integer>
-			<integer>385908993</integer>
-			<integer>385909010</integer>
 			<integer>402685968</integer>
 			<integer>402685991</integer>
 			<integer>402686000</integer>
 			<integer>402686211</integer>
 			<integer>402686224</integer>
-			<integer>419463184</integer>
-			<integer>419463207</integer>
-			<integer>419463216</integer>
-			<integer>419463427</integer>
-			<integer>419463440</integer>
 			<integer>436240400</integer>
 			<integer>436240416</integer>
 			<integer>436240423</integer>
 			<integer>436240432</integer>
 			<integer>436240643</integer>
 			<integer>436240656</integer>
-			<integer>453017616</integer>
-			<integer>453017632</integer>
-			<integer>453017639</integer>
-			<integer>453017648</integer>
-			<integer>453017859</integer>
-			<integer>453017872</integer>
 			<integer>469794832</integer>
 			<integer>469794848</integer>
 			<integer>469794855</integer>
 			<integer>469795075</integer>
-			<integer>486572048</integer>
-			<integer>486572064</integer>
-			<integer>486572071</integer>
-			<integer>486572291</integer>
 			<integer>503349264</integer>
 			<integer>503349280</integer>
 			<integer>503349287</integer>
 			<integer>503349507</integer>
-			<integer>520126480</integer>
-			<integer>520126496</integer>
-			<integer>520126503</integer>
-			<integer>520126723</integer>
 			<integer>604012576</integer>
 			<integer>604012803</integer>
-			<integer>620789792</integer>
-			<integer>620790019</integer>
 			<integer>637567008</integer>
-			<integer>654344224</integer>
 			<integer>738230531</integer>
-			<integer>755007747</integer>
 			<integer>939556903</integer>
-			<integer>956334119</integer>
 			<integer>973111335</integer>
-			<integer>989888551</integer>
 			<integer>1006665767</integer>
-			<integer>1023442983</integer>
 			<integer>1040220199</integer>
-			<integer>1056997415</integer>
 			<integer>2415984129</integer>
 			<integer>1099494915856</integer>
 		</array>
@@ -3891,11 +1971,6 @@
 			<integer>33587203</integer>
 			<integer>33587221</integer>
 			<integer>33587248</integer>
-			<integer>50360321</integer>
-			<integer>50364416</integer>
-			<integer>50364419</integer>
-			<integer>50364437</integer>
-			<integer>50364464</integer>
 			<integer>67141632</integer>
 			<integer>67141635</integer>
 			<integer>67141649</integer>
@@ -3906,16 +1981,6 @@
 			<integer>67141904</integer>
 			<integer>67141936</integer>
 			<integer>67141952</integer>
-			<integer>83918848</integer>
-			<integer>83918851</integer>
-			<integer>83918865</integer>
-			<integer>83918869</integer>
-			<integer>83918896</integer>
-			<integer>83919105</integer>
-			<integer>83919107</integer>
-			<integer>83919120</integer>
-			<integer>83919152</integer>
-			<integer>83919168</integer>
 			<integer>100687906</integer>
 			<integer>100691969</integer>
 			<integer>100696064</integer>
@@ -3926,16 +1991,6 @@
 			<integer>100696321</integer>
 			<integer>100696336</integer>
 			<integer>100696368</integer>
-			<integer>117465122</integer>
-			<integer>117469185</integer>
-			<integer>117473280</integer>
-			<integer>117473283</integer>
-			<integer>117473297</integer>
-			<integer>117473301</integer>
-			<integer>117473328</integer>
-			<integer>117473537</integer>
-			<integer>117473552</integer>
-			<integer>117473584</integer>
 			<integer>134246400</integer>
 			<integer>134250497</integer>
 			<integer>134250512</integer>
@@ -3949,19 +2004,6 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
-			<integer>151023616</integer>
-			<integer>151027713</integer>
-			<integer>151027728</integer>
-			<integer>151027751</integer>
-			<integer>151027969</integer>
-			<integer>151027971</integer>
-			<integer>151027984</integer>
-			<integer>151027986</integer>
-			<integer>151028000</integer>
-			<integer>151028002</integer>
-			<integer>151028016</integer>
-			<integer>151028018</integer>
-			<integer>151028032</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
 			<integer>167804929</integer>
@@ -3978,22 +2020,6 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
-			<integer>184573986</integer>
-			<integer>184578048</integer>
-			<integer>184582145</integer>
-			<integer>184582160</integer>
-			<integer>184582165</integer>
-			<integer>184582176</integer>
-			<integer>184582183</integer>
-			<integer>184582401</integer>
-			<integer>184582403</integer>
-			<integer>184582416</integer>
-			<integer>184582418</integer>
-			<integer>184582432</integer>
-			<integer>184582434</integer>
-			<integer>184582448</integer>
-			<integer>184582450</integer>
-			<integer>184582464</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
 			<integer>201359381</integer>
@@ -4007,19 +2033,6 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
-			<integer>218136592</integer>
-			<integer>218136593</integer>
-			<integer>218136597</integer>
-			<integer>218136608</integer>
-			<integer>218136615</integer>
-			<integer>218136833</integer>
-			<integer>218136835</integer>
-			<integer>218136848</integer>
-			<integer>218136850</integer>
-			<integer>218136864</integer>
-			<integer>218136866</integer>
-			<integer>218136882</integer>
-			<integer>218136896</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
 			<integer>234913813</integer>
@@ -4033,19 +2046,6 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
-			<integer>251691024</integer>
-			<integer>251691025</integer>
-			<integer>251691029</integer>
-			<integer>251691040</integer>
-			<integer>251691047</integer>
-			<integer>251691265</integer>
-			<integer>251691267</integer>
-			<integer>251691280</integer>
-			<integer>251691282</integer>
-			<integer>251691296</integer>
-			<integer>251691298</integer>
-			<integer>251691314</integer>
-			<integer>251691328</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
 			<integer>268468227</integer>
@@ -4054,94 +2054,46 @@
 			<integer>268468496</integer>
 			<integer>268468498</integer>
 			<integer>268468512</integer>
-			<integer>285245440</integer>
-			<integer>285245441</integer>
-			<integer>285245443</integer>
-			<integer>285245488</integer>
-			<integer>285245699</integer>
-			<integer>285245712</integer>
-			<integer>285245714</integer>
-			<integer>285245728</integer>
 			<integer>302022656</integer>
 			<integer>302022657</integer>
 			<integer>302022659</integer>
 			<integer>302022915</integer>
 			<integer>302022930</integer>
 			<integer>302022944</integer>
-			<integer>318799872</integer>
-			<integer>318799873</integer>
-			<integer>318799875</integer>
-			<integer>318800131</integer>
-			<integer>318800146</integer>
-			<integer>318800160</integer>
 			<integer>335577120</integer>
 			<integer>335577345</integer>
 			<integer>335577362</integer>
-			<integer>352354336</integer>
-			<integer>352354561</integer>
-			<integer>352354578</integer>
 			<integer>369131536</integer>
 			<integer>369131552</integer>
 			<integer>369131777</integer>
 			<integer>369131794</integer>
-			<integer>385908752</integer>
-			<integer>385908768</integer>
-			<integer>385908993</integer>
-			<integer>385909010</integer>
 			<integer>402685968</integer>
 			<integer>402685991</integer>
 			<integer>402686000</integer>
 			<integer>402686211</integer>
 			<integer>402686224</integer>
-			<integer>419463184</integer>
-			<integer>419463207</integer>
-			<integer>419463216</integer>
-			<integer>419463427</integer>
-			<integer>419463440</integer>
 			<integer>436240400</integer>
 			<integer>436240416</integer>
 			<integer>436240423</integer>
 			<integer>436240432</integer>
 			<integer>436240643</integer>
 			<integer>436240656</integer>
-			<integer>453017616</integer>
-			<integer>453017632</integer>
-			<integer>453017639</integer>
-			<integer>453017648</integer>
-			<integer>453017859</integer>
-			<integer>453017872</integer>
 			<integer>469794832</integer>
 			<integer>469794848</integer>
 			<integer>469794855</integer>
 			<integer>469795075</integer>
-			<integer>486572048</integer>
-			<integer>486572064</integer>
-			<integer>486572071</integer>
-			<integer>486572291</integer>
 			<integer>503349264</integer>
 			<integer>503349280</integer>
 			<integer>503349287</integer>
 			<integer>503349507</integer>
-			<integer>520126480</integer>
-			<integer>520126496</integer>
-			<integer>520126503</integer>
-			<integer>520126723</integer>
 			<integer>604012576</integer>
 			<integer>604012803</integer>
-			<integer>620789792</integer>
-			<integer>620790019</integer>
 			<integer>637567008</integer>
-			<integer>654344224</integer>
 			<integer>738230531</integer>
-			<integer>755007747</integer>
 			<integer>939556903</integer>
-			<integer>956334119</integer>
 			<integer>973111335</integer>
-			<integer>989888551</integer>
 			<integer>1006665767</integer>
-			<integer>1023442983</integer>
 			<integer>1040220199</integer>
-			<integer>1056997415</integer>
 			<integer>2415984129</integer>
 			<integer>1099494915856</integer>
 		</array>
