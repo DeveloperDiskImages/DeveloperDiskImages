@@ -188,6 +188,20 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
+			<integer>10</integer>
+			<key>BoardConfig</key>
+			<string>d23ap</string>
+			<key>CPID</key>
+			<integer>33104</integer>
+			<key>Platform</key>
+			<string>t8150</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>24</integer>
 			<key>BoardConfig</key>
 			<string>d27ap</string>
@@ -1798,6 +1812,48 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
+			<integer>12</integer>
+			<key>BoardConfig</key>
+			<string>v53ap</string>
+			<key>CPID</key>
+			<integer>33104</integer>
+			<key>Platform</key>
+			<string>t8150</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>14</integer>
+			<key>BoardConfig</key>
+			<string>v54ap</string>
+			<key>CPID</key>
+			<integer>33104</integer>
+			<key>Platform</key>
+			<string>t8150</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>8</integer>
+			<key>BoardConfig</key>
+			<string>v57ap</string>
+			<key>CPID</key>
+			<integer>33104</integer>
+			<key>Platform</key>
+			<string>t8150</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>4</integer>
 			<key>BoardConfig</key>
 			<string>v59ap</string>
@@ -1826,7 +1882,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17A5285i</string>
+	<string>17A324</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -1871,6 +1927,7 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
+			<integer>134250832</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
 			<integer>167804929</integer>
@@ -1887,6 +1944,7 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
+			<integer>167805264</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
 			<integer>201359381</integer>
@@ -1900,6 +1958,7 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
+			<integer>201359696</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
 			<integer>234913813</integer>
@@ -1913,6 +1972,7 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
+			<integer>234914128</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
 			<integer>268468227</integer>
@@ -2004,6 +2064,7 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
+			<integer>134250832</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
 			<integer>167804929</integer>
@@ -2020,6 +2081,7 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
+			<integer>167805264</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
 			<integer>201359381</integer>
@@ -2033,6 +2095,7 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
+			<integer>201359696</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
 			<integer>234913813</integer>
@@ -2046,6 +2109,7 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
+			<integer>234914128</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
 			<integer>268468227</integer>
@@ -2216,6 +2280,10 @@
 		<string>iPhone17,3</string>
 		<string>iPhone17,4</string>
 		<string>iPhone17,5</string>
+		<string>iPhone18,1</string>
+		<string>iPhone18,2</string>
+		<string>iPhone18,3</string>
+		<string>iPhone18,4</string>
 		<string>iPhone8,1</string>
 		<string>iPhone8,2</string>
 		<string>iPhone8,4</string>

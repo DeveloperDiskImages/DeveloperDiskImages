@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1376</string>
+	<string>1957</string>
 	<key>Platform</key>
 	<string>xrOS</string>
 	<key>ProductBuildVersion</key>
-	<string>17A5285i</string>
+	<string>17A324</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>24244</string>
+			<string>24256</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -26,13 +26,13 @@
 			<key>Project</key>
 			<string>Playgrounds</string>
 			<key>Version</key>
-			<string>9</string>
+			<string>11</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>LiveExecutionResultsLogger</string>
 			<key>Version</key>
-			<string>20007</string>
+			<string>20009.1</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -44,7 +44,7 @@
 			<key>Project</key>
 			<string>GPUToolsDevice_DDI</string>
 			<key>Version</key>
-			<string>310.30</string>
+			<string>310.32</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -62,13 +62,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>477.27</string>
+			<string>477.30</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>1082</string>
+			<string>1085</string>
 		</dict>
 	</array>
 	<key>Variant</key>

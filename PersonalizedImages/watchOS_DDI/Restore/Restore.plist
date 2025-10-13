@@ -592,9 +592,135 @@
 			<key>SDOM</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>26</integer>
+			<key>BoardConfig</key>
+			<string>n227bap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>24</integer>
+			<key>BoardConfig</key>
+			<string>n227sap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>30</integer>
+			<key>BoardConfig</key>
+			<string>n228bap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>28</integer>
+			<key>BoardConfig</key>
+			<string>n228sap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>34</integer>
+			<key>BoardConfig</key>
+			<string>n230ap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>42</integer>
+			<key>BoardConfig</key>
+			<string>n243bap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>40</integer>
+			<key>BoardConfig</key>
+			<string>n243sap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>46</integer>
+			<key>BoardConfig</key>
+			<string>n244bap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>44</integer>
+			<key>BoardConfig</key>
+			<string>n244sap</string>
+			<key>CPID</key>
+			<integer>33552</integer>
+			<key>Platform</key>
+			<string>t8310</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17A5285i</string>
+	<string>17A324</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -627,18 +753,27 @@
 			<integer>369132289</integer>
 			<integer>369132304</integer>
 			<integer>402685956</integer>
+			<integer>402686736</integer>
 			<integer>436240388</integer>
+			<integer>436241168</integer>
 			<integer>469794820</integer>
+			<integer>469795600</integer>
 			<integer>503349252</integer>
+			<integer>503350032</integer>
+			<integer>570458896</integer>
 			<integer>637567745</integer>
 			<integer>671121414</integer>
 			<integer>671122177</integer>
+			<integer>671122192</integer>
 			<integer>704675846</integer>
 			<integer>704676609</integer>
+			<integer>704676624</integer>
 			<integer>738230278</integer>
 			<integer>738231041</integer>
+			<integer>738231056</integer>
 			<integer>771784710</integer>
 			<integer>771785473</integer>
+			<integer>771785488</integer>
 			<integer>805339905</integer>
 			<integer>838894337</integer>
 			<integer>872448769</integer>
@@ -672,18 +807,27 @@
 			<integer>369132289</integer>
 			<integer>369132304</integer>
 			<integer>402685956</integer>
+			<integer>402686736</integer>
 			<integer>436240388</integer>
+			<integer>436241168</integer>
 			<integer>469794820</integer>
+			<integer>469795600</integer>
 			<integer>503349252</integer>
+			<integer>503350032</integer>
+			<integer>570458896</integer>
 			<integer>637567745</integer>
 			<integer>671121414</integer>
 			<integer>671122177</integer>
+			<integer>671122192</integer>
 			<integer>704675846</integer>
 			<integer>704676609</integer>
+			<integer>704676624</integer>
 			<integer>738230278</integer>
 			<integer>738231041</integer>
+			<integer>738231056</integer>
 			<integer>771784710</integer>
 			<integer>771785473</integer>
+			<integer>771785488</integer>
 			<integer>805339905</integer>
 			<integer>838894337</integer>
 			<integer>872448769</integer>
@@ -728,7 +872,16 @@
 		<string>Watch7,1</string>
 		<string>Watch7,10</string>
 		<string>Watch7,11</string>
+		<string>Watch7,12</string>
+		<string>Watch7,13</string>
+		<string>Watch7,14</string>
+		<string>Watch7,15</string>
+		<string>Watch7,16</string>
+		<string>Watch7,17</string>
+		<string>Watch7,18</string>
+		<string>Watch7,19</string>
 		<string>Watch7,2</string>
+		<string>Watch7,20</string>
 		<string>Watch7,3</string>
 		<string>Watch7,4</string>
 		<string>Watch7,5</string>

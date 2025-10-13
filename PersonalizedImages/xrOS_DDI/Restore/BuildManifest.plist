@@ -23,16 +23,12 @@
 			<string>0x2016</string>
 			<key>AudioAP1,SecurityDomain</key>
 			<string>0x01</string>
-			<key>Cryptex1,NonceDomain</key>
-			<integer>4</integer>
-			<key>Cryptex1,SubType</key>
-			<integer>3</integer>
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17A5285i</string>
+				<string>17A324</string>
 				<key>BuildTrain</key>
-				<string>WonderSeed</string>
+				<string>Wonder</string>
 				<key>DeviceClass</key>
 				<string>n301ap</string>
 				<key>FDRSupport</key>
@@ -76,8 +72,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					z/p8x3GozAai1/s6j4Q3wak/L7kRXv0mHoUP
-					u+oggPwFdeAEdnyvjbNcXEFCTLaR
+					SRaer6iJk30oIUPtYIwszF7NAI7pZ47hnW/C
+					qSNvstwVm4gfjCzFKYpEefOmy/z5
 					</data>
 					<key>Info</key>
 					<dict>
@@ -94,7 +90,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19520-068.dmg.trustcache</string>
+						<string>Firmware/022-17241-417.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -182,8 +178,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					CJIlFOb/6nkex15rPuAAYrQQTPqJL1L2uK6y
-					xifBA/ObivpP7SC++49VK1M6fFim
+					2CgJJiGbp4s9Bzr/uoBl5X2PCUUfebmWMTdA
+					S2/7QEE2z6f49VbbZNu4HWbTyH3q
 					</data>
 					<key>Info</key>
 					<dict>
@@ -200,7 +196,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19520-068.dmg</string>
+						<string>022-17241-417.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -252,7 +248,7 @@
 			<integer>1</integer>
 			<key>UniqueBuildID</key>
 			<data>
-			tQRx+EIXw5ptt02y4a1t/jH+U54=
+			2sN3g0tTL4UW6Qwcy/8ovXcK5A8=
 			</data>
 			<key>YonkersIR1,BoardID</key>
 			<integer>1</integer>
@@ -303,9 +299,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17A5285i</string>
+				<string>17A324</string>
 				<key>BuildTrain</key>
-				<string>WonderSeed</string>
+				<string>Wonder</string>
 				<key>DeviceClass</key>
 				<string>xroscryptexap</string>
 				<key>FDRSupport</key>
@@ -347,8 +343,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					XQGLRhfXvLgnEE+kDNguoL5XVA3qX3ngprCc
-					4cS7qTSBsAo53281YBYdgg6JVQgG
+					ov1w3Ll371j1GxiVShAELm+/k/w0yOGLvV/D
+					SAg+HZpLlJ6vYh1ieIY8b6gfxxff
 					</data>
 					<key>Info</key>
 					<dict>
@@ -363,7 +359,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19536-069.dmg.cryptex_info</string>
+						<string>Firmware/022-18118-322.dmg.cryptex_info</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -451,8 +447,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					9QcWzWWW8WaUjBUYpqQ1gdVXclmNbJ5pzCcC
-					vMcUCD6aWJewDBie0DCQm11gOlx5
+					vgTfG+2al19sE+8GmwcaEAQyLWZqpmWE5iSH
+					nWpgdfXHo9KFJO9yIkrnD9Hijic+
 					</data>
 					<key>Info</key>
 					<dict>
@@ -469,7 +465,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-19536-069.dmg</string>
+						<string>022-18118-322.dmg</string>
 						<key>Personalize</key>
 						<false/>
 						<key>RestoreRequestRules</key>
@@ -555,8 +551,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					g0JCIZPJXnc3JSYlTHwDennoO2uCywSqQAzX
-					S8VvglDCgN6oyYT27v9+a4RmdHHE
+					y1gK9ePgXUk4XgmgT8yFK39RcNsqK5teMtg0
+					LMp/jvySEmYaZSnT9S1FguTkX+1j
 					</data>
 					<key>Info</key>
 					<dict>
@@ -573,7 +569,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19536-069.dmg.trustcache</string>
+						<string>Firmware/022-18118-322.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -659,8 +655,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					TmDar90HbN2WKvnFu7DOnImfMGCITNajbUaP
-					Lf3fhr3z7H55yX02q/69+2DinrUS
+					hyNkvzxvCjoLOTCFKQE3+ZOENryDPR3ePfSJ
+					atXFQtLe5E2DWuTIujz/QgBvnutE
 					</data>
 					<key>Info</key>
 					<dict>
@@ -677,7 +673,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-19536-069.dmg.root_hash</string>
+						<string>Firmware/022-18118-322.dmg.root_hash</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -766,14 +762,14 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			A0TOqMIbOrT9y0VYZE6wu4tWaFM=
+			SwI5RJNObI9Nv2sNPeO8mnbxWzw=
 			</data>
 		</dict>
 	</array>
 	<key>ManifestVersion</key>
 	<integer>0</integer>
 	<key>ProductBuildVersion</key>
-	<string>17A5285i</string>
+	<string>17A324</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypes</key>
