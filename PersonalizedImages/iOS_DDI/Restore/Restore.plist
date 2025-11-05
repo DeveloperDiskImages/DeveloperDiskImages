@@ -1602,6 +1602,34 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
+			<integer>8</integer>
+			<key>BoardConfig</key>
+			<string>j817ap</string>
+			<key>CPID</key>
+			<integer>33090</integer>
+			<key>Platform</key>
+			<string>t8142</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>10</integer>
+			<key>BoardConfig</key>
+			<string>j818ap</string>
+			<key>CPID</key>
+			<integer>33090</integer>
+			<key>Platform</key>
+			<string>t8142</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>6</integer>
 			<key>BoardConfig</key>
 			<string>j81ap</string>
@@ -1609,6 +1637,34 @@
 			<integer>28673</integer>
 			<key>Platform</key>
 			<string>t7001</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>12</integer>
+			<key>BoardConfig</key>
+			<string>j820ap</string>
+			<key>CPID</key>
+			<integer>33090</integer>
+			<key>Platform</key>
+			<string>t8142</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>14</integer>
+			<key>BoardConfig</key>
+			<string>j821ap</string>
+			<key>CPID</key>
+			<integer>33090</integer>
+			<key>Platform</key>
+			<string>t8142</string>
 			<key>SCEP</key>
 			<integer>0</integer>
 			<key>SDOM</key>
@@ -1882,7 +1938,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17A324</string>
+	<string>17B55</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -1927,6 +1983,7 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
+			<integer>134250818</integer>
 			<integer>134250832</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
@@ -1944,6 +2001,7 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
+			<integer>167805250</integer>
 			<integer>167805264</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
@@ -1958,6 +2016,7 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
+			<integer>201359682</integer>
 			<integer>201359696</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
@@ -1972,6 +2031,7 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
+			<integer>234914114</integer>
 			<integer>234914128</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
@@ -2064,6 +2124,7 @@
 			<integer>134250800</integer>
 			<integer>134250802</integer>
 			<integer>134250816</integer>
+			<integer>134250818</integer>
 			<integer>134250832</integer>
 			<integer>167796770</integer>
 			<integer>167800832</integer>
@@ -2081,6 +2142,7 @@
 			<integer>167805232</integer>
 			<integer>167805234</integer>
 			<integer>167805248</integer>
+			<integer>167805250</integer>
 			<integer>167805264</integer>
 			<integer>201359376</integer>
 			<integer>201359377</integer>
@@ -2095,6 +2157,7 @@
 			<integer>201359650</integer>
 			<integer>201359666</integer>
 			<integer>201359680</integer>
+			<integer>201359682</integer>
 			<integer>201359696</integer>
 			<integer>234913808</integer>
 			<integer>234913809</integer>
@@ -2109,6 +2172,7 @@
 			<integer>234914082</integer>
 			<integer>234914098</integer>
 			<integer>234914112</integer>
+			<integer>234914114</integer>
 			<integer>234914128</integer>
 			<integer>268468224</integer>
 			<integer>268468225</integer>
@@ -2214,6 +2278,10 @@
 		<string>iPad16,4</string>
 		<string>iPad16,5</string>
 		<string>iPad16,6</string>
+		<string>iPad17,1</string>
+		<string>iPad17,2</string>
+		<string>iPad17,3</string>
+		<string>iPad17,4</string>
 		<string>iPad5,1</string>
 		<string>iPad5,2</string>
 		<string>iPad5,3</string>

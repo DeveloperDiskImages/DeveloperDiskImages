@@ -22,6 +22,20 @@
 			<key>BDID</key>
 			<integer>66</integer>
 			<key>BoardConfig</key>
+			<string>n301aap</string>
+			<key>CPID</key>
+			<integer>33090</integer>
+			<key>Platform</key>
+			<string>t8142</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>66</integer>
+			<key>BoardConfig</key>
 			<string>n301ap</string>
 			<key>CPID</key>
 			<integer>33042</integer>
@@ -34,7 +48,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17A324</string>
+	<string>17B55</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -42,17 +56,20 @@
 		<key>DFU</key>
 		<array>
 			<integer>1107329298</integer>
+			<integer>1107329346</integer>
 			<integer>1099494915856</integer>
 		</array>
 		<key>Recovery</key>
 		<array>
 			<integer>1107329298</integer>
+			<integer>1107329346</integer>
 			<integer>1099494915856</integer>
 		</array>
 	</dict>
 	<key>SupportedProductTypes</key>
 	<array>
 		<string>RealityDevice14,1</string>
+		<string>RealityDevice17,1</string>
 		<string>iSim1,1</string>
 	</array>
 	<key>SystemRestoreImageFileSystems</key>

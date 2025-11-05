@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1942</string>
+	<string>2289</string>
 	<key>Platform</key>
 	<string>tvOS</string>
 	<key>ProductBuildVersion</key>
-	<string>17A324</string>
+	<string>17B55</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>24256</string>
+			<string>24419</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -32,7 +32,7 @@
 			<key>Project</key>
 			<string>LiveExecutionResultsLogger</string>
 			<key>Version</key>
-			<string>20009.1</string>
+			<string>20100</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -44,7 +44,7 @@
 			<key>Project</key>
 			<string>GPUToolsDevice_DDI</string>
 			<key>Version</key>
-			<string>310.32</string>
+			<string>311.2</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -62,13 +62,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>477.30</string>
+			<string>477.39</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>1085</string>
+			<string>1400</string>
 		</dict>
 	</array>
 	<key>Variant</key>
