@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>2293</string>
+	<string>2585</string>
 	<key>Platform</key>
 	<string>watchOS</string>
 	<key>ProductBuildVersion</key>
-	<string>17B55</string>
+	<string>17C529</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>24419</string>
+			<string>24507</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Mercury</string>
 			<key>Version</key>
-			<string>65</string>
+			<string>67</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -32,7 +32,7 @@
 			<key>Project</key>
 			<string>LiveExecutionResultsLogger</string>
 			<key>Version</key>
-			<string>20100</string>
+			<string>20101</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -44,7 +44,7 @@
 			<key>Project</key>
 			<string>GPUToolsDevice_DDI</string>
 			<key>Version</key>
-			<string>311.2</string>
+			<string>312.4</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -62,13 +62,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>477.39</string>
+			<string>506.7</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>1400</string>
+			<string>1501</string>
 		</dict>
 	</array>
 	<key>Variant</key>
