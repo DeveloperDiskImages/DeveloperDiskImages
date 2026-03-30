@@ -26,19 +26,19 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n301aap</string>
 				<key>FDRSupport</key>
 				<true/>
 				<key>MobileDeviceMinVersion</key>
-				<string>1810</string>
+				<string>1818.10.1</string>
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -74,8 +74,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					9UNcZS5AnmOD+WBQU/QeLp1kyJ1F0xRXOP3S
-					kOXc32mdv9U7/W741wzCn/olWJxP
+					jOMbzxYGwFWOLlY31nrvi6Bj8qNWRK4Z1qNK
+					KkokNQbGVd0UNIw1sTTTSnUBffoG
 					</data>
 					<key>Info</key>
 					<dict>
@@ -92,7 +92,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20639-093.dmg.trustcache</string>
+						<string>Firmware/022-19800-242.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -180,8 +180,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					TQOmH0tDG0Ui+q0cMN1XwqfRqyUJnBFN0Eqy
-					jLfDxjrPFp6xYEseaRoaWFrDcS/c
+					ybpMX3KMHvtpW4/fKWKeEJAnCE2BWXZocyoU
+					RD7horC0BjXZ+WxwR51pOrPh5E6M
 					</data>
 					<key>Info</key>
 					<dict>
@@ -198,7 +198,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20639-093.dmg</string>
+						<string>022-19800-242.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -250,7 +250,7 @@
 			<integer>1</integer>
 			<key>UniqueBuildID</key>
 			<data>
-			aHlj9A3YgsnGlbrqhkFxjzK8nMM=
+			8SaFySfaPX2ZTQavJIcJ8NOPAsk=
 			</data>
 			<key>YonkersIR1,BoardID</key>
 			<integer>1</integer>
@@ -299,9 +299,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n301ap</string>
 				<key>FDRSupport</key>
@@ -345,8 +345,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					9UNcZS5AnmOD+WBQU/QeLp1kyJ1F0xRXOP3S
-					kOXc32mdv9U7/W741wzCn/olWJxP
+					jOMbzxYGwFWOLlY31nrvi6Bj8qNWRK4Z1qNK
+					KkokNQbGVd0UNIw1sTTTSnUBffoG
 					</data>
 					<key>Info</key>
 					<dict>
@@ -363,7 +363,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20639-093.dmg.trustcache</string>
+						<string>Firmware/022-19800-242.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -451,8 +451,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					TQOmH0tDG0Ui+q0cMN1XwqfRqyUJnBFN0Eqy
-					jLfDxjrPFp6xYEseaRoaWFrDcS/c
+					ybpMX3KMHvtpW4/fKWKeEJAnCE2BWXZocyoU
+					RD7horC0BjXZ+WxwR51pOrPh5E6M
 					</data>
 					<key>Info</key>
 					<dict>
@@ -469,7 +469,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20639-093.dmg</string>
+						<string>022-19800-242.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -521,7 +521,7 @@
 			<integer>1</integer>
 			<key>UniqueBuildID</key>
 			<data>
-			2iIa9BBdkEIwT5p60G+OGP6SFcI=
+			Uh+soWUNdFGC9fAvD+Niz9OVgD8=
 			</data>
 			<key>YonkersIR1,BoardID</key>
 			<integer>1</integer>
@@ -572,9 +572,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>xroscryptexap</string>
 				<key>FDRSupport</key>
@@ -616,8 +616,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YN9Y6PNTHimMlTcwqhCOgEzhbNii6GpyGrnB
-					6If9BBAUnI5rQm2yVI5Na/boQzvk
+					gmrFr+7CXmRlEZjCOi6YVi9PaAeeAYFIIBcu
+					3CrluwgPDNgK8RkZQpKmrUh5jtgH
 					</data>
 					<key>Info</key>
 					<dict>
@@ -632,7 +632,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20628-093.dmg.cryptex_info</string>
+						<string>Firmware/022-19827-242.dmg.cryptex_info</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -720,8 +720,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					WW0MDK4gmHSlnSZM05wJX0x1ufbKHWOPt4OL
-					LN5KJwxWBsNOcxjSz5ftZRUqJxpo
+					HXh4q8bxfQ5uuz0YlPRlK1s4d+8iHJF+EJu6
+					BP4Vx9YD9xQbXD8gud1bWNo8ciTz
 					</data>
 					<key>Info</key>
 					<dict>
@@ -738,7 +738,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20628-093.dmg</string>
+						<string>022-19827-242.dmg</string>
 						<key>Personalize</key>
 						<false/>
 						<key>RestoreRequestRules</key>
@@ -824,8 +824,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					DbRVNCv4/3XPwwJqq11k1KfLs9H1THTeO6qk
-					S6gWxy/D4ezcfdW8kTLbLBSVYKsQ
+					4AbAmTcosK0tcDP778j/+dOIv/aogjpznJb6
+					f2fZkAYvRxzDZtEJEWkasabwpfmy
 					</data>
 					<key>Info</key>
 					<dict>
@@ -842,7 +842,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20628-093.dmg.trustcache</string>
+						<string>Firmware/022-19827-242.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -928,8 +928,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					T1dQ789L5TsAmwlZavchfFe+mTU1v3xk/sRk
-					1GCb40SWyD3lmTBUugW6zm+pG1Iq
+					qfm/wSwptc7kjqtThJenORDPK3dXPCzDRhkI
+					Dgwx0kcJF6SRd9yYPcM7LWqMjCGB
 					</data>
 					<key>Info</key>
 					<dict>
@@ -946,7 +946,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20628-093.dmg.root_hash</string>
+						<string>Firmware/022-19827-242.dmg.root_hash</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1035,14 +1035,14 @@
 			<string>1.0</string>
 			<key>UniqueBuildID</key>
 			<data>
-			znRSt5eqNnB14045CaQGTi9Px98=
+			nAP3lKPC7SinuyYCsIL6pAeA1d4=
 			</data>
 		</dict>
 	</array>
 	<key>ManifestVersion</key>
 	<integer>0</integer>
 	<key>ProductBuildVersion</key>
-	<string>17C529</string>
+	<string>17E192</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypes</key>

@@ -6,6 +6,20 @@
 	<array>
 		<dict>
 			<key>BDID</key>
+			<integer>65535</integer>
+			<key>BoardConfig</key>
+			<string>watchoscryptexap</string>
+			<key>CPID</key>
+			<integer>65296</integer>
+			<key>Platform</key>
+			<string>cryptex1</string>
+			<key>SCEP</key>
+			<integer>1</integer>
+			<key>SDOM</key>
+			<integer>65535</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>30</integer>
 			<key>BoardConfig</key>
 			<string>n111bap</string>
@@ -720,7 +734,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17C529</string>
+	<string>17E192</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -778,6 +792,7 @@
 			<integer>838894337</integer>
 			<integer>872448769</integer>
 			<integer>906003201</integer>
+			<integer>1099494915856</integer>
 		</array>
 		<key>Recovery</key>
 		<array>
@@ -832,6 +847,7 @@
 			<integer>838894337</integer>
 			<integer>872448769</integer>
 			<integer>906003201</integer>
+			<integer>1099494915856</integer>
 		</array>
 	</dict>
 	<key>SupportedProductTypes</key>
@@ -887,6 +903,7 @@
 		<string>Watch7,5</string>
 		<string>Watch7,8</string>
 		<string>Watch7,9</string>
+		<string>iSim1,1</string>
 	</array>
 	<key>SystemRestoreImageFileSystems</key>
 	<dict/>

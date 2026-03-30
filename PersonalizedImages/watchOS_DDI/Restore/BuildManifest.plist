@@ -35,9 +35,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n111bap</string>
 				<key>FDRSupport</key>
@@ -79,8 +79,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -97,7 +97,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -185,8 +185,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -203,7 +203,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -219,7 +219,7 @@
 			<string>0x73</string>
 			<key>UniqueBuildID</key>
 			<data>
-			lVSH38OtIoPkEC2Ok/ZFy64Uf6M=
+			8mkntP2zrxehAOsKt1+0SDdKuf0=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -255,9 +255,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n111sap</string>
 				<key>FDRSupport</key>
@@ -299,8 +299,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -317,7 +317,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -405,8 +405,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -423,7 +423,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -439,7 +439,7 @@
 			<string>0x73</string>
 			<key>UniqueBuildID</key>
 			<data>
-			IUTWCJaJ/QRd5uE4uhnGwFUESI4=
+			4bxe3+OIkIMW9p+AXsbMB6hyr8g=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -460,9 +460,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n121bap</string>
 				<key>FDRSupport</key>
@@ -504,8 +504,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -522,7 +522,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -610,8 +610,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -628,7 +628,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -644,7 +644,7 @@
 			<string>0x73</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Wovmgn8wCZzhEnaFMIENtST+56Y=
+			p7ODOUjv0izqFtV2yFq56bsjiKE=
 			</data>
 		</dict>
 		<dict>
@@ -663,9 +663,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n121sap</string>
 				<key>FDRSupport</key>
@@ -707,8 +707,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -725,7 +725,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -813,8 +813,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -831,7 +831,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -847,7 +847,7 @@
 			<string>0x73</string>
 			<key>UniqueBuildID</key>
 			<data>
-			2WJfgutAfHOS3i+3TgpnOzZn8Cw=
+			oYxI6tBRvKvSNJHCkj09qO3TN8Y=
 			</data>
 		</dict>
 		<dict>
@@ -866,9 +866,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n131bap</string>
 				<key>FDRSupport</key>
@@ -912,8 +912,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -930,7 +930,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1018,8 +1018,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1036,7 +1036,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1052,7 +1052,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			n+IGVa08wgMHIafJwb37K0gcsrM=
+			5rWKfCKoSxIQ/Dag1WEapH2jfxI=
 			</data>
 		</dict>
 		<dict>
@@ -1071,9 +1071,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n131sap</string>
 				<key>FDRSupport</key>
@@ -1117,8 +1117,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1135,7 +1135,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1223,8 +1223,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1241,7 +1241,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1257,7 +1257,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			/bWKE/QanCI6SbY3eWbKy4IX65M=
+			wU8qJpUcKkucMFAOgRgKOzNyrac=
 			</data>
 		</dict>
 		<dict>
@@ -1276,9 +1276,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n140bap</string>
 				<key>FDRSupport</key>
@@ -1322,8 +1322,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1340,7 +1340,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1428,8 +1428,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1446,7 +1446,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1462,7 +1462,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Qmo60iWxjC/6YpEvuNkxUUu+W74=
+			Jo+GwygqtAH90OdNUqHfzaostC8=
 			</data>
 		</dict>
 		<dict>
@@ -1481,9 +1481,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n140sap</string>
 				<key>FDRSupport</key>
@@ -1527,8 +1527,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1545,7 +1545,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1633,8 +1633,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1651,7 +1651,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1667,7 +1667,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			flJCWLgFhdvYNnoSwBa8hHXCO/Q=
+			JyjZUlxWDplAuHJXBD4aHtQoPMI=
 			</data>
 		</dict>
 		<dict>
@@ -1699,9 +1699,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n141bap</string>
 				<key>FDRSupport</key>
@@ -1745,8 +1745,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1763,7 +1763,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -1851,8 +1851,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1869,7 +1869,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -1885,7 +1885,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			N3QdJuCZNjkgsghDyKA5amPrugs=
+			3YHa0INaQqF9fRjG712vg92E8rQ=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -1919,9 +1919,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n141sap</string>
 				<key>FDRSupport</key>
@@ -1965,8 +1965,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -1983,7 +1983,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2071,8 +2071,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2089,7 +2089,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -2105,7 +2105,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			McSYnb9bfHnrlv5AOzauteAUgik=
+			w3OZEoHOojSdWaTtqpvUM6xq6RM=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -2139,9 +2139,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n142bap</string>
 				<key>FDRSupport</key>
@@ -2185,8 +2185,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2203,7 +2203,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2291,8 +2291,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2309,7 +2309,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -2325,7 +2325,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			IRvADV3RruSvEXaRta7dSX+fC0c=
+			kHZ5ObRau6HrJ929L5Jg59lo+uk=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>6</integer>
@@ -2359,9 +2359,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n142sap</string>
 				<key>FDRSupport</key>
@@ -2405,8 +2405,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2423,7 +2423,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2511,8 +2511,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2529,7 +2529,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -2545,7 +2545,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Sf/dELFql/qLcOqumfFdHdSqdoc=
+			5dKmNDh+Szw+lb3XEZqo1ss9OiY=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>6</integer>
@@ -2554,7 +2554,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,11</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n143b</string>
 			<key>ApBoardID</key>
@@ -2566,9 +2566,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n143bap</string>
 				<key>FDRSupport</key>
@@ -2612,8 +2612,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2630,7 +2630,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2718,8 +2718,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2736,7 +2736,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -2746,22 +2746,20 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>SE,ChipID</key>
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			1YB8CJWZMH8JM0p1+nUV1V6ZvBg=
+			uavwizxQIMDOnjVT8g6DNvtpBK4=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,10</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n143s</string>
 			<key>ApBoardID</key>
@@ -2773,9 +2771,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n143sap</string>
 				<key>FDRSupport</key>
@@ -2819,8 +2817,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2837,7 +2835,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -2925,8 +2923,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -2943,7 +2941,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -2953,15 +2951,13 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>SE,ChipID</key>
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			DjiBBOXbHrT3pytyhjGTMYdDMDY=
+			yJeyrLjcyjBOO8jlgEuaRWWjl00=
 			</data>
 		</dict>
 		<dict>
@@ -2980,9 +2976,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n144bap</string>
 				<key>FDRSupport</key>
@@ -3026,8 +3022,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3044,7 +3040,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -3132,8 +3128,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3150,7 +3146,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -3166,7 +3162,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			dwR68xXJTvJ9mzZj6y5p0+Dxa+0=
+			KqvpMpzg7wa/o4W2bekZvrkLUi8=
 			</data>
 		</dict>
 		<dict>
@@ -3185,9 +3181,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n144sap</string>
 				<key>FDRSupport</key>
@@ -3231,8 +3227,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3249,7 +3245,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -3337,8 +3333,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3355,7 +3351,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -3371,7 +3367,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			W7T5EYQ1tDkGAbf4jUvSMtvdlpQ=
+			yFUbnCHavRtvqSdApFGb6JxWruY=
 			</data>
 		</dict>
 		<dict>
@@ -3403,9 +3399,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n146bap</string>
 				<key>FDRSupport</key>
@@ -3449,8 +3445,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3467,7 +3463,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -3555,8 +3551,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3573,7 +3569,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -3589,7 +3585,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			4eFdYz3vyWUNSPLb0e1/8lYBnVc=
+			FN6aWaRz0rV0f8Etf4+FnAVTIL4=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -3623,9 +3619,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n146sap</string>
 				<key>FDRSupport</key>
@@ -3669,8 +3665,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3687,7 +3683,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -3775,8 +3771,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3793,7 +3789,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -3809,7 +3805,7 @@
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			zmSGkSv8OBC/XlXNgwmGknbJxYE=
+			w3lLlKgnpseT24WJ5MBKJ2u6Sc0=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>5</integer>
@@ -3818,7 +3814,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,13</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n149b</string>
 			<key>ApBoardID</key>
@@ -3843,9 +3839,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n149bap</string>
 				<key>FDRSupport</key>
@@ -3889,8 +3885,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -3907,7 +3903,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -3995,8 +3991,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4013,7 +4009,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -4023,15 +4019,13 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>SE,ChipID</key>
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			kvs0PRu4u1FBqxqY+CSir6iYVak=
+			eE4zIUC1vSuCCWQI8bx/+nyhn0Q=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -4040,7 +4034,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,12</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n149s</string>
 			<key>ApBoardID</key>
@@ -4065,9 +4059,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n149sap</string>
 				<key>FDRSupport</key>
@@ -4111,8 +4105,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4129,7 +4123,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -4217,8 +4211,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4235,7 +4229,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -4245,15 +4239,13 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>SE,ChipID</key>
 			<string>0x64</string>
 			<key>UniqueBuildID</key>
 			<data>
-			yUBIFe7qULiwD053Kagj9vxm1dA=
+			qa4Zz/2h3nix7orynDCd9a/0hWE=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -4262,7 +4254,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,2</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n157b</string>
 			<key>ApBoardID</key>
@@ -4274,9 +4266,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n157bap</string>
 				<key>FDRSupport</key>
@@ -4320,8 +4312,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4338,7 +4330,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -4426,8 +4418,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4444,7 +4436,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -4454,8 +4446,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -4468,14 +4458,14 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			9fvJdyFJMPZ3lLlUksMVmJ938Fc=
+			S4n6h5PSQl1ES73sTpkQwuwVOdc=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,1</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n157s</string>
 			<key>ApBoardID</key>
@@ -4487,9 +4477,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n157sap</string>
 				<key>FDRSupport</key>
@@ -4533,8 +4523,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4551,7 +4541,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -4639,8 +4629,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4657,7 +4647,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -4667,8 +4657,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -4681,14 +4669,14 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			fGYTrZPupy1n356xQxHMMXYdW+I=
+			Mfw93NIQaOviQrthlqBpXr5dd6U=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,4</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n158b</string>
 			<key>ApBoardID</key>
@@ -4713,9 +4701,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n158bap</string>
 				<key>FDRSupport</key>
@@ -4759,8 +4747,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4777,7 +4765,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -4865,8 +4853,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -4883,7 +4871,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -4893,8 +4881,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -4907,7 +4893,7 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Jl34ZwDkjoOlkY00rwLQNGgQ25k=
+			oBoJhhlzoz9D1Xzf+kAZ3XIyD34=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>6</integer>
@@ -4916,7 +4902,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,3</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n158s</string>
 			<key>ApBoardID</key>
@@ -4941,9 +4927,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n158sap</string>
 				<key>FDRSupport</key>
@@ -4987,8 +4973,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5005,7 +4991,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -5093,8 +5079,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5111,7 +5097,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -5121,8 +5107,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -5135,7 +5119,7 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			P4B7WM8IJF9NBY+ePdrCd2ro9qU=
+			HKMOy3eGqlndFK1g+OqaeH47q6o=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>6</integer>
@@ -5144,7 +5128,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,7</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n187b</string>
 			<key>ApBoardID</key>
@@ -5156,9 +5140,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n187bap</string>
 				<key>FDRSupport</key>
@@ -5202,8 +5186,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5220,7 +5204,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -5308,8 +5292,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5326,7 +5310,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -5336,8 +5320,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -5350,14 +5332,14 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			s/Ng8UD/naXhuF4K9qTojJVNeWI=
+			U5i4wg9MWjCgBJmiTgdPXBwQEOQ=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,6</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n187s</string>
 			<key>ApBoardID</key>
@@ -5369,9 +5351,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n187sap</string>
 				<key>FDRSupport</key>
@@ -5415,8 +5397,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5433,7 +5415,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -5521,8 +5503,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5539,7 +5521,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -5549,8 +5531,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -5563,14 +5543,14 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			bjK1pLWL99R5QPpFqFj0BoLZR0M=
+			IcknAMO+fPTeJtMEyygdt5ecd6w=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,9</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n188b</string>
 			<key>ApBoardID</key>
@@ -5595,9 +5575,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n188bap</string>
 				<key>FDRSupport</key>
@@ -5641,8 +5621,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5659,7 +5639,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -5747,8 +5727,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5765,7 +5745,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -5775,8 +5755,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -5789,7 +5767,7 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			LTGblCcO2y8Oig5PXpHMGylJmpI=
+			Q9JdzSXUiQziUcooqIgK1gTVBKA=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -5798,7 +5776,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,8</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n188s</string>
 			<key>ApBoardID</key>
@@ -5823,9 +5801,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n188sap</string>
 				<key>FDRSupport</key>
@@ -5869,8 +5847,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5887,7 +5865,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -5975,8 +5953,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -5993,7 +5971,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -6003,8 +5981,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -6017,7 +5993,7 @@
 			<string>0xD2</string>
 			<key>UniqueBuildID</key>
 			<data>
-			frusJGW8JWqHbiFLIk8q7ua0kXo=
+			mpWs+2xeHME2NeG4kKYj7TVhqWA=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -6026,7 +6002,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,15</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n197b</string>
 			<key>ApBoardID</key>
@@ -6038,9 +6014,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n197bap</string>
 				<key>FDRSupport</key>
@@ -6084,8 +6060,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6102,7 +6078,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -6190,8 +6166,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6208,7 +6184,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -6218,8 +6194,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -6232,14 +6206,14 @@
 			<string>0x2C</string>
 			<key>UniqueBuildID</key>
 			<data>
-			rKu5hcox5Lz5uDiWzVQ4E6NDRhc=
+			cjF62+vGyuwH7NWBbAuNvaUoPFI=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,14</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n197s</string>
 			<key>ApBoardID</key>
@@ -6251,9 +6225,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n197sap</string>
 				<key>FDRSupport</key>
@@ -6297,8 +6271,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6315,7 +6289,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -6403,8 +6377,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6421,7 +6395,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -6431,8 +6405,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -6445,14 +6417,14 @@
 			<string>0x2C</string>
 			<key>UniqueBuildID</key>
 			<data>
-			SowkcCg6ZNFi1FcXtT+GxotuO7I=
+			GT1jkAFHK+ovnKxxtTxgoLvprGY=
 			</data>
 		</dict>
 		<dict>
 			<key>Ap,ProductType</key>
 			<string>Watch6,17</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n198b</string>
 			<key>ApBoardID</key>
@@ -6477,9 +6449,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n198bap</string>
 				<key>FDRSupport</key>
@@ -6523,8 +6495,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6541,7 +6513,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -6629,8 +6601,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6647,7 +6619,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -6657,8 +6629,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -6671,7 +6641,7 @@
 			<string>0x2C</string>
 			<key>UniqueBuildID</key>
 			<data>
-			f6hlF+HWZ3Qp4Mtb5O2maJVXWO4=
+			1rLmy0bb5jiF7YwyNIXt5iom/aI=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -6680,7 +6650,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,16</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n198s</string>
 			<key>ApBoardID</key>
@@ -6705,9 +6675,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n198sap</string>
 				<key>FDRSupport</key>
@@ -6751,8 +6721,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6769,7 +6739,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -6857,8 +6827,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6875,7 +6845,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -6885,8 +6855,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -6899,7 +6867,7 @@
 			<string>0x2C</string>
 			<key>UniqueBuildID</key>
 			<data>
-			jQVT0TFSGktW4WuhDip309SWsG0=
+			tJHlP4cmkxjjP4PxuWC8xNQigYw=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -6908,7 +6876,7 @@
 			<key>Ap,ProductType</key>
 			<string>Watch6,18</string>
 			<key>Ap,SDKPlatform</key>
-			<string>watchos</string>
+			<string>deprecated</string>
 			<key>Ap,TargetType</key>
 			<string>n199</string>
 			<key>ApBoardID</key>
@@ -6933,9 +6901,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n199ap</string>
 				<key>FDRSupport</key>
@@ -6979,8 +6947,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -6997,7 +6965,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -7085,8 +7053,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7103,7 +7071,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -7113,8 +7081,6 @@
 					<true/>
 				</dict>
 			</dict>
-			<key>NeRDEpoch</key>
-			<integer>0</integer>
 			<key>ProductMarketingVersion</key>
 			<string>1.0</string>
 			<key>Rap,BoardID</key>
@@ -7127,7 +7093,7 @@
 			<string>0x2C</string>
 			<key>UniqueBuildID</key>
 			<data>
-			znKrZYorinZFXmVTXmOtHiUxqdQ=
+			9+q8wN31a/0jQePWHoZJpLBJtOQ=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -7148,9 +7114,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n207bap</string>
 				<key>FDRSupport</key>
@@ -7160,7 +7126,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -7196,8 +7162,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7214,7 +7180,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -7302,8 +7268,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7320,7 +7286,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -7344,7 +7310,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			fXFhqS+w6jwNhLhg1nHkSYbFn9Q=
+			GCLJiaknUeQz0nj+xxKqKhguHbY=
 			</data>
 		</dict>
 		<dict>
@@ -7363,9 +7329,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n207sap</string>
 				<key>FDRSupport</key>
@@ -7375,7 +7341,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -7411,8 +7377,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7429,7 +7395,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -7517,8 +7483,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7535,7 +7501,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -7559,7 +7525,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			kUgpwa7EvSmKHjwynjE12qnp21g=
+			67s1PUOesLiOUHq0deSK4kuoZvo=
 			</data>
 		</dict>
 		<dict>
@@ -7591,9 +7557,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n208bap</string>
 				<key>FDRSupport</key>
@@ -7603,7 +7569,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -7639,8 +7605,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7657,7 +7623,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -7745,8 +7711,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7763,7 +7729,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -7787,7 +7753,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			KRBZkaUWODFqph0ws6Lx8DALi0c=
+			xbaoVoL5rEczOpKo3wolHgJRen0=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -7821,9 +7787,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n208sap</string>
 				<key>FDRSupport</key>
@@ -7833,7 +7799,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -7869,8 +7835,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7887,7 +7853,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -7975,8 +7941,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -7993,7 +7959,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -8017,7 +7983,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			h2eWU2e+9K9SEvGegLWtk6GdhbQ=
+			tzW18ahnoJyJOCf6Yax54Af6Eok=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -8051,9 +8017,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n210ap</string>
 				<key>FDRSupport</key>
@@ -8063,7 +8029,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -8099,8 +8065,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8117,7 +8083,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -8205,8 +8171,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8223,7 +8189,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -8247,7 +8213,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			dgVOUJvQ61lPXn1kd0ncLk3sCmA=
+			TsvHvEuL8o4dqqj0sZJzrkpNte0=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>7</integer>
@@ -8272,9 +8238,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n217bap</string>
 				<key>FDRSupport</key>
@@ -8284,7 +8250,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -8320,8 +8286,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8338,7 +8304,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -8426,8 +8392,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8444,7 +8410,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -8468,7 +8434,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			E7uTqe7sN0EIG0LA6YcBouBBKL8=
+			omDOQ8C41pIIFWkjRjR0H9I6aKY=
 			</data>
 		</dict>
 		<dict>
@@ -8491,9 +8457,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n217sap</string>
 				<key>FDRSupport</key>
@@ -8503,7 +8469,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -8539,8 +8505,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8557,7 +8523,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -8645,8 +8611,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8663,7 +8629,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -8687,7 +8653,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			LXV5n9DUkLbPJYfbXjKBzAeioOE=
+			wOHNP3ZFb6rpEq/sVvfYTxpK4oM=
 			</data>
 		</dict>
 		<dict>
@@ -8723,9 +8689,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n218bap</string>
 				<key>FDRSupport</key>
@@ -8735,7 +8701,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -8771,8 +8737,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8789,7 +8755,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -8877,8 +8843,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -8895,7 +8861,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -8919,7 +8885,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			2D2JDB0Wtqsys+kD2PvdhfGcYLU=
+			VfR0NbWWFmJH7qb4lrx7RH1pfcQ=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -8957,9 +8923,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n218sap</string>
 				<key>FDRSupport</key>
@@ -8969,7 +8935,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -9005,8 +8971,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9023,7 +8989,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -9111,8 +9077,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9129,7 +9095,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -9153,7 +9119,7 @@
 			<string>0x36</string>
 			<key>UniqueBuildID</key>
 			<data>
-			DEiItHa6FMbQ33ELcnTz+OB+tP4=
+			+2Nv6jsCs22GOFLCyBpW9vTuVCw=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -9178,9 +9144,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n227bap</string>
 				<key>FDRSupport</key>
@@ -9190,7 +9156,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -9226,8 +9192,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9244,7 +9210,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -9332,8 +9298,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9350,7 +9316,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -9374,7 +9340,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Og4RkBQk5rE3NaYX2il/QQV6UPs=
+			katVdjLXDh0kltm623ueKATkyWo=
 			</data>
 		</dict>
 		<dict>
@@ -9397,9 +9363,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n227sap</string>
 				<key>FDRSupport</key>
@@ -9409,7 +9375,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -9445,8 +9411,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9463,7 +9429,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -9551,8 +9517,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9569,7 +9535,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -9593,7 +9559,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			SRxaLkq3h98thKFT4B3w+aFL6fM=
+			6q46os9yrJ0coKIklUSULIdwm5M=
 			</data>
 		</dict>
 		<dict>
@@ -9631,9 +9597,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n228bap</string>
 				<key>FDRSupport</key>
@@ -9643,7 +9609,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -9679,8 +9645,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9697,7 +9663,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -9785,8 +9751,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9803,7 +9769,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -9827,7 +9793,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			3EYspBWM/wKIIk6LTAQSN9Nhxyw=
+			4H112ekx+CfdBZ2wmj7r3Jqsr1M=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -9867,9 +9833,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n228sap</string>
 				<key>FDRSupport</key>
@@ -9879,7 +9845,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -9915,8 +9881,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -9933,7 +9899,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -10021,8 +9987,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10039,7 +10005,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -10063,7 +10029,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			1ONM0Yp3S3Iaf0rJdlHiN6ByH+g=
+			dUxu7+CtYIYS5GTux2LWhJDEblY=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -10103,9 +10069,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n230ap</string>
 				<key>FDRSupport</key>
@@ -10115,7 +10081,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -10151,8 +10117,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10169,7 +10135,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -10257,8 +10223,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10275,7 +10241,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -10299,7 +10265,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			LAwWInFAnmx/3j5v0ECxMicQBjg=
+			PeP9VMuzcMEa3HwKBZVq4OzeZgc=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -10324,9 +10290,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n243bap</string>
 				<key>FDRSupport</key>
@@ -10336,7 +10302,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -10372,8 +10338,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10390,7 +10356,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -10478,8 +10444,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10496,7 +10462,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -10514,7 +10480,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			55Qnc3zzA68+Xja/OjhLb5axxKw=
+			2nOpUimA+8v//0MiLYqRuicPzNA=
 			</data>
 		</dict>
 		<dict>
@@ -10537,9 +10503,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n243sap</string>
 				<key>FDRSupport</key>
@@ -10549,7 +10515,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -10585,8 +10551,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10603,7 +10569,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -10691,8 +10657,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10709,7 +10675,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -10727,7 +10693,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			Kn/KWBJXS1jHBuTqAIJ35dfK9Os=
+			CPaUa1oRX035xJnIkUda1SVM9EE=
 			</data>
 		</dict>
 		<dict>
@@ -10765,9 +10731,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n244bap</string>
 				<key>FDRSupport</key>
@@ -10777,7 +10743,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -10813,8 +10779,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10831,7 +10797,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -10919,8 +10885,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -10937,7 +10903,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -10955,7 +10921,7 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			TRBvNKa//LvIlMFD3NFxjbsfzH0=
+			Wc0OhZ2kCoLyQjiwYGbmpyFQuSU=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
@@ -10995,9 +10961,9 @@
 			<key>Info</key>
 			<dict>
 				<key>BuildNumber</key>
-				<string>17C529</string>
+				<string>17E192</string>
 				<key>BuildTrain</key>
-				<string>WonderC</string>
+				<string>WonderE</string>
 				<key>DeviceClass</key>
 				<string>n244sap</string>
 				<key>FDRSupport</key>
@@ -11007,7 +10973,7 @@
 				<key>RequiresUIDMode</key>
 				<true/>
 				<key>RestoreAttestationMode</key>
-				<integer>2</integer>
+				<integer>4</integer>
 				<key>SystemPartitionPadding</key>
 				<dict>
 					<key>1024</key>
@@ -11043,8 +11009,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					YD3uKsK2ERg7bFHLQA1NoMS4TVQeZJF5xTpQ
-					GIgnUpPpRTNiPN+BxA1dYGeGGiQC
+					q2Yb0+QMkeHP2kd9B4j94pnyvm2yhjUNmBnF
+					YIjISQC8PnXXyovvesCGVwj4PCsp
 					</data>
 					<key>Info</key>
 					<dict>
@@ -11061,7 +11027,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>Firmware/022-20627-093.dmg.trustcache</string>
+						<string>Firmware/022-19835-241.dmg.trustcache</string>
 						<key>Personalize</key>
 						<true/>
 						<key>RestoreRequestRules</key>
@@ -11149,8 +11115,8 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					uqgV2CQlE/4FSTzS/7z5MfdsmjjCEslItkXo
-					PvDJjjYrmOIV7Pz/8i7s260H2Psz
+					4am2+myOdwSUS8PY6Yt41ESee6PlbydbbM4o
+					0I2x8eghKSL5f0xKkeWCL+pX9Xef
 					</data>
 					<key>Info</key>
 					<dict>
@@ -11167,7 +11133,7 @@
 						<key>IsiBootNonEssentialFirmware</key>
 						<false/>
 						<key>Path</key>
-						<string>022-20627-093.dmg</string>
+						<string>022-19835-241.dmg</string>
 						<key>Personalize</key>
 						<true/>
 					</dict>
@@ -11185,16 +11151,506 @@
 			<string>0x38</string>
 			<key>UniqueBuildID</key>
 			<data>
-			g7CEptIKdXGOry6lalVnfaaGNeE=
+			W7obDaVl3Q5kH38nLObO6u2CueE=
 			</data>
 			<key>eUICC,ChipID</key>
 			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>Ap,SDKPlatform</key>
+			<string>watchos</string>
+			<key>Ap,TargetType</key>
+			<string>watchoscryptex</string>
+			<key>Cryptex1,ChipID</key>
+			<string>0xFF10</string>
+			<key>Cryptex1,NonceDomain</key>
+			<integer>4</integer>
+			<key>Cryptex1,PreauthorizationVersion</key>
+			<string>29.999.999.0.0,0</string>
+			<key>Cryptex1,ProductClass</key>
+			<string>0xF3</string>
+			<key>Cryptex1,SubType</key>
+			<integer>2</integer>
+			<key>Cryptex1,Type</key>
+			<integer>3</integer>
+			<key>Cryptex1,UseProductClass</key>
+			<true/>
+			<key>Cryptex1,Version</key>
+			<string>29.999.999.0.0,0</string>
+			<key>Info</key>
+			<dict>
+				<key>BuildNumber</key>
+				<string>17E192</string>
+				<key>BuildTrain</key>
+				<string>WonderE</string>
+				<key>DeviceClass</key>
+				<string>watchoscryptexap</string>
+				<key>FDRSupport</key>
+				<false/>
+				<key>MobileDeviceMinVersion</key>
+				<string>1810</string>
+				<key>SystemPartitionPadding</key>
+				<dict>
+					<key>1024</key>
+					<integer>1280</integer>
+					<key>128</key>
+					<integer>1280</integer>
+					<key>16</key>
+					<integer>160</integer>
+					<key>256</key>
+					<integer>1280</integer>
+					<key>32</key>
+					<integer>320</integer>
+					<key>512</key>
+					<integer>1280</integer>
+					<key>64</key>
+					<integer>640</integer>
+					<key>768</key>
+					<integer>1280</integer>
+					<key>8</key>
+					<integer>80</integer>
+				</dict>
+				<key>Variant</key>
+				<string>Cryptex Developer Disk Image</string>
+				<key>VariantContents</key>
+				<dict>
+					<key>Cryptex1,GenericDmg</key>
+					<string>GenericCryptexOne</string>
+				</dict>
+			</dict>
+			<key>Manifest</key>
+			<dict>
+				<key>Cryptex1,CryptexInfoPlist</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					LCRna5a8qAzfRxNeok0MCfWFJ9D9cMoicKQg
+					kiDuw9s7YWvYAJOoacQb8YMyygDQ
+					</data>
+					<key>Info</key>
+					<dict>
+						<key>IsFTAB</key>
+						<false/>
+						<key>IsLoadedByiBoot</key>
+						<false/>
+						<key>IsLoadedByiBootStage1</key>
+						<false/>
+						<key>IsiBootEANFirmware</key>
+						<false/>
+						<key>IsiBootNonEssentialFirmware</key>
+						<false/>
+						<key>Path</key>
+						<string>Firmware/022-21565-060.dmg.cryptex_info</string>
+						<key>Personalize</key>
+						<true/>
+						<key>RestoreRequestRules</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApDemotionPolicyOverride</key>
+									<string>Demote</string>
+									<key>ApInRomDFU</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>Trusted</key>
+					<true/>
+				</dict>
+				<key>Cryptex1,GenericDmg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					tlrI49qY46nXjIbURirduu8aXNmjbyYSgpxr
+					s+76TzThq1wCEd3KHZjKAToUmQ//
+					</data>
+					<key>Info</key>
+					<dict>
+						<key>HashMethod</key>
+						<string>sha2-384</string>
+						<key>IsFTAB</key>
+						<false/>
+						<key>IsLoadedByiBoot</key>
+						<false/>
+						<key>IsLoadedByiBootStage1</key>
+						<false/>
+						<key>IsiBootEANFirmware</key>
+						<false/>
+						<key>IsiBootNonEssentialFirmware</key>
+						<false/>
+						<key>Path</key>
+						<string>022-21565-060.dmg</string>
+						<key>Personalize</key>
+						<false/>
+						<key>RestoreRequestRules</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApDemotionPolicyOverride</key>
+									<string>Demote</string>
+									<key>ApInRomDFU</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+				</dict>
+				<key>Cryptex1,GenericTrustCache</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					OIKJaFjkCOJfFRZi1H2XLebnRDWAxYojq78o
+					n05EAlXvimbgV66jrIePARxVjkui
+					</data>
+					<key>Info</key>
+					<dict>
+						<key>HashMethod</key>
+						<string>sha2-384</string>
+						<key>IsFTAB</key>
+						<false/>
+						<key>IsLoadedByiBoot</key>
+						<false/>
+						<key>IsLoadedByiBootStage1</key>
+						<false/>
+						<key>IsiBootEANFirmware</key>
+						<false/>
+						<key>IsiBootNonEssentialFirmware</key>
+						<false/>
+						<key>Path</key>
+						<string>Firmware/022-21565-060.dmg.trustcache</string>
+						<key>Personalize</key>
+						<true/>
+						<key>RestoreRequestRules</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApDemotionPolicyOverride</key>
+									<string>Demote</string>
+									<key>ApInRomDFU</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+				</dict>
+				<key>Cryptex1,GenericVolume</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					oBgofYMItMGaSQVQ997PVa70xgO41LditXa4
+					b4D9djIOvFl4YfnakHBryz2n23MS
+					</data>
+					<key>Info</key>
+					<dict>
+						<key>HashMethod</key>
+						<string>sha2-384</string>
+						<key>IsFTAB</key>
+						<false/>
+						<key>IsLoadedByiBoot</key>
+						<false/>
+						<key>IsLoadedByiBootStage1</key>
+						<false/>
+						<key>IsiBootEANFirmware</key>
+						<false/>
+						<key>IsiBootNonEssentialFirmware</key>
+						<false/>
+						<key>Path</key>
+						<string>Firmware/022-21565-060.dmg.root_hash</string>
+						<key>Personalize</key>
+						<true/>
+						<key>RestoreRequestRules</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>EPRO</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApCurrentProductionMode</key>
+									<true/>
+									<key>ApDemotionPolicyOverride</key>
+									<string>Demote</string>
+									<key>ApInRomDFU</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<false/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<false/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<dict>
+									<key>ESEC</key>
+									<true/>
+								</dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ApRawSecurityMode</key>
+									<true/>
+									<key>ApRequiresImage4</key>
+									<true/>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+				</dict>
+			</dict>
+			<key>NeRDEpoch</key>
+			<integer>0</integer>
+			<key>ProductMarketingVersion</key>
+			<string>1.0</string>
+			<key>UniqueBuildID</key>
+			<data>
+			FIqa+bjvZMeh/dFuImKqesOLaa4=
+			</data>
 		</dict>
 	</array>
 	<key>ManifestVersion</key>
 	<integer>0</integer>
 	<key>ProductBuildVersion</key>
-	<string>17C529</string>
+	<string>17E192</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypes</key>
@@ -11250,6 +11706,7 @@
 		<string>Watch7,5</string>
 		<string>Watch7,8</string>
 		<string>Watch7,9</string>
+		<string>iSim1,1</string>
 	</array>
 </dict>
 </plist>

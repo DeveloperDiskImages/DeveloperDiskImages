@@ -804,34 +804,6 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
-			<integer>44</integer>
-			<key>BoardConfig</key>
-			<string>j236bap</string>
-			<key>CPID</key>
-			<integer>33027</integer>
-			<key>Platform</key>
-			<string>t8103</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
-			<integer>6</integer>
-			<key>BoardConfig</key>
-			<string>j236cap</string>
-			<key>CPID</key>
-			<integer>24610</integer>
-			<key>Platform</key>
-			<string>t6022</string>
-			<key>SCEP</key>
-			<integer>0</integer>
-			<key>SDOM</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>BDID</key>
 			<integer>20</integer>
 			<key>BoardConfig</key>
 			<string>j271ap</string>
@@ -1462,6 +1434,34 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
+			<integer>16</integer>
+			<key>BoardConfig</key>
+			<string>j707ap</string>
+			<key>CPID</key>
+			<integer>33074</integer>
+			<key>Platform</key>
+			<string>t8132</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>18</integer>
+			<key>BoardConfig</key>
+			<string>j708ap</string>
+			<key>CPID</key>
+			<integer>33074</integer>
+			<key>Platform</key>
+			<string>t8132</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>8</integer>
 			<key>BoardConfig</key>
 			<string>j717ap</string>
@@ -1595,6 +1595,34 @@
 			<integer>32771</integer>
 			<key>Platform</key>
 			<string>s8003</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>20</integer>
+			<key>BoardConfig</key>
+			<string>j737ap</string>
+			<key>CPID</key>
+			<integer>33074</integer>
+			<key>Platform</key>
+			<string>t8132</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
+			<integer>22</integer>
+			<key>BoardConfig</key>
+			<string>j738ap</string>
+			<key>CPID</key>
+			<integer>33074</integer>
+			<key>Platform</key>
+			<string>t8132</string>
 			<key>SCEP</key>
 			<integer>0</integer>
 			<key>SDOM</key>
@@ -1868,6 +1896,20 @@
 		</dict>
 		<dict>
 			<key>BDID</key>
+			<integer>22</integer>
+			<key>BoardConfig</key>
+			<string>v159ap</string>
+			<key>CPID</key>
+			<integer>33104</integer>
+			<key>Platform</key>
+			<string>t8150</string>
+			<key>SCEP</key>
+			<integer>0</integer>
+			<key>SDOM</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BDID</key>
 			<integer>12</integer>
 			<key>BoardConfig</key>
 			<string>v53ap</string>
@@ -1938,7 +1980,7 @@
 		</dict>
 	</array>
 	<key>ProductBuildVersion</key>
-	<string>17C529</string>
+	<string>17E192</string>
 	<key>ProductVersion</key>
 	<string>1.0</string>
 	<key>SupportedProductTypeIDs</key>
@@ -1960,7 +2002,6 @@
 			<integer>67141904</integer>
 			<integer>67141936</integer>
 			<integer>67141952</integer>
-			<integer>100687906</integer>
 			<integer>100691969</integer>
 			<integer>100696064</integer>
 			<integer>100696067</integer>
@@ -2041,19 +2082,24 @@
 			<integer>268468496</integer>
 			<integer>268468498</integer>
 			<integer>268468512</integer>
+			<integer>268468530</integer>
 			<integer>302022656</integer>
 			<integer>302022657</integer>
 			<integer>302022659</integer>
 			<integer>302022915</integer>
 			<integer>302022930</integer>
 			<integer>302022944</integer>
+			<integer>302022962</integer>
 			<integer>335577120</integer>
 			<integer>335577345</integer>
 			<integer>335577362</integer>
+			<integer>335577394</integer>
 			<integer>369131536</integer>
 			<integer>369131552</integer>
 			<integer>369131777</integer>
 			<integer>369131794</integer>
+			<integer>369131826</integer>
+			<integer>369131856</integer>
 			<integer>402685968</integer>
 			<integer>402685991</integer>
 			<integer>402686000</integer>
@@ -2076,7 +2122,6 @@
 			<integer>604012576</integer>
 			<integer>604012803</integer>
 			<integer>637567008</integer>
-			<integer>738230531</integer>
 			<integer>939556903</integer>
 			<integer>973111335</integer>
 			<integer>1006665767</integer>
@@ -2101,7 +2146,6 @@
 			<integer>67141904</integer>
 			<integer>67141936</integer>
 			<integer>67141952</integer>
-			<integer>100687906</integer>
 			<integer>100691969</integer>
 			<integer>100696064</integer>
 			<integer>100696067</integer>
@@ -2182,19 +2226,24 @@
 			<integer>268468496</integer>
 			<integer>268468498</integer>
 			<integer>268468512</integer>
+			<integer>268468530</integer>
 			<integer>302022656</integer>
 			<integer>302022657</integer>
 			<integer>302022659</integer>
 			<integer>302022915</integer>
 			<integer>302022930</integer>
 			<integer>302022944</integer>
+			<integer>302022962</integer>
 			<integer>335577120</integer>
 			<integer>335577345</integer>
 			<integer>335577362</integer>
+			<integer>335577394</integer>
 			<integer>369131536</integer>
 			<integer>369131552</integer>
 			<integer>369131777</integer>
 			<integer>369131794</integer>
+			<integer>369131826</integer>
+			<integer>369131856</integer>
 			<integer>402685968</integer>
 			<integer>402685991</integer>
 			<integer>402686000</integer>
@@ -2217,7 +2266,6 @@
 			<integer>604012576</integer>
 			<integer>604012803</integer>
 			<integer>637567008</integer>
-			<integer>738230531</integer>
 			<integer>939556903</integer>
 			<integer>973111335</integer>
 			<integer>1006665767</integer>
@@ -2230,8 +2278,6 @@
 	<array>
 		<string>ComputeModule13,1</string>
 		<string>ComputeModule13,3</string>
-		<string>ComputeModule13,5</string>
-		<string>ComputeModule14,1</string>
 		<string>ComputeModule14,2</string>
 		<string>Mac14,14</string>
 		<string>iPad11,1</string>
@@ -2273,11 +2319,15 @@
 		<string>iPad15,7</string>
 		<string>iPad15,8</string>
 		<string>iPad16,1</string>
+		<string>iPad16,10</string>
+		<string>iPad16,11</string>
 		<string>iPad16,2</string>
 		<string>iPad16,3</string>
 		<string>iPad16,4</string>
 		<string>iPad16,5</string>
 		<string>iPad16,6</string>
+		<string>iPad16,8</string>
+		<string>iPad16,9</string>
 		<string>iPad17,1</string>
 		<string>iPad17,2</string>
 		<string>iPad17,3</string>
@@ -2352,6 +2402,7 @@
 		<string>iPhone18,2</string>
 		<string>iPhone18,3</string>
 		<string>iPhone18,4</string>
+		<string>iPhone18,5</string>
 		<string>iPhone8,1</string>
 		<string>iPhone8,2</string>
 		<string>iPhone8,4</string>
