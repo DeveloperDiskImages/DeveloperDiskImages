@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>395</string>
+	<string>659</string>
 	<key>Platform</key>
 	<string>iOS</string>
 	<key>ProductBuildVersion</key>
-	<string>17E192</string>
+	<string>17F42</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>24833</string>
+			<string>24904</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -62,13 +62,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>518.27</string>
+			<string>518.31</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>1743</string>
+			<string>1902</string>
 		</dict>
 	</array>
 	<key>Variant</key>
