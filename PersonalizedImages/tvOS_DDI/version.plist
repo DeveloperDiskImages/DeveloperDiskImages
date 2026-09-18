@@ -3,24 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>662</string>
+	<string>1375</string>
 	<key>Platform</key>
 	<string>tvOS</string>
 	<key>ProductBuildVersion</key>
-	<string>17F42</string>
+	<string>27A266a</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
 			<string>XCTest</string>
 			<key>Version</key>
-			<string>24904</string>
+			<string>25228</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>XCResultKitBNI</string>
+			<key>Version</key>
+			<string>25115</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Mercury</string>
 			<key>Version</key>
-			<string>70</string>
+			<string>78</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -38,13 +44,13 @@
 			<key>Project</key>
 			<string>JetsamProperties</string>
 			<key>Version</key>
-			<string>2648.0.21</string>
+			<string>2999</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>GPUToolsDevice_DDI</string>
 			<key>Version</key>
-			<string>314.9</string>
+			<string>2027.0.5</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -62,13 +68,13 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>518.31</string>
+			<string>642.16</string>
 		</dict>
 		<dict>
 			<key>Project</key>
 			<string>Citrine</string>
 			<key>Version</key>
-			<string>1902</string>
+			<string>2084</string>
 		</dict>
 	</array>
 	<key>Variant</key>
