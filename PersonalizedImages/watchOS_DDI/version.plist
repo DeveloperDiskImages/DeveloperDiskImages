@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1455</string>
+	<string>1570</string>
 	<key>Platform</key>
 	<string>watchOS</string>
 	<key>ProductBuildVersion</key>
-	<string>27A266a</string>
+	<string>27A9269</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>Project</key>
 			<string>CoreDevice</string>
 			<key>Version</key>
-			<string>642.16</string>
+			<string>651.13.4</string>
 		</dict>
 		<dict>
 			<key>Project</key>
