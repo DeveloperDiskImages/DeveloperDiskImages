@@ -5,6 +5,7 @@ PERSONALIZED_DEVELOPER_DISK_IMAGES_PATH="/Library/Developer/DeveloperDiskImages"
 
 LEGACY_TARGET_DIR="./LegacyImages" 
 PERSONALIZED_TARGET_DIR="./PersonalizedImages" 
+CRYPTEX_TARGET_DIR="./CryptexImages"
 
 cd "$(dirname "$0")"
 
@@ -14,6 +15,10 @@ fi
 
 if [ ! -e "$PERSONALIZED_TARGET_DIR" ]; then
 mkdir "$PERSONALIZED_TARGET_DIR"
+fi
+
+if [ ! -e "$CRYPTEX_TARGET_DIR" ]; then
+mkdir "$CRYPTEX_TARGET_DIR"
 fi
 
 echo '--------------------------------------------------'
@@ -56,6 +61,59 @@ find "$PERSONALIZED_DEVELOPER_DISK_IMAGES_PATH" -type f | while read -r file; do
     else
         echo "Skipped: $rel_path"
     fi
+done
+
+echo '--------------------------------------------------'
+
+# The Cryptex1 variant (installed through cryptexd rather than the image mounter) ships inside the
+# personalized images. Extract it per platform under fixed names, with a BuildManifest.plist that
+# only holds the cryptex identities and declares those same names.
+echo 'Cryptex Images:'
+CRYPTEX_PAYLOADS="Cryptex1,GenericDmg:Image.dmg Cryptex1,GenericTrustCache:Image.dmg.trustcache Cryptex1,CryptexInfoPlist:Image.dmg.cryptex_info Cryptex1,GenericVolume:Image.dmg.root_hash"
+find "$PERSONALIZED_DEVELOPER_DISK_IMAGES_PATH" -mindepth 1 -maxdepth 1 -type d | while read -r ddi_dir; do
+    ddi_name=$(basename "$ddi_dir")
+    dest_dir="$CRYPTEX_TARGET_DIR/$ddi_name"
+    dest_manifest="$dest_dir/BuildManifest.plist"
+    rm -r -f "$dest_dir"
+    mkdir -p "$dest_dir"
+    cp "$ddi_dir/Restore/BuildManifest.plist" "$dest_manifest"
+
+    # Drop every non-cryptex identity, walking backwards so the remaining indices stay valid
+    i=$(plutil -extract BuildIdentities raw "$dest_manifest")
+    while [ "$i" -gt 0 ]; do
+        i=$((i - 1))
+        if ! plutil -extract "BuildIdentities.$i.Manifest.Cryptex1,GenericDmg" raw "$dest_manifest" >/dev/null 2>&1; then
+            plutil -remove "BuildIdentities.$i" "$dest_manifest"
+        fi
+    done
+    count=$(plutil -extract BuildIdentities raw "$dest_manifest")
+    if [ "$count" -eq 0 ]; then
+        rm -r -f "$dest_dir"
+        echo "Skipped: $ddi_name (no cryptex identity)"
+        continue
+    fi
+
+    for payload in $CRYPTEX_PAYLOADS; do
+        key="${payload%%:*}"
+        file="${payload#*:}"
+        src_path=""
+        i=0
+        while [ "$i" -lt "$count" ]; do
+            path=$(plutil -extract "BuildIdentities.$i.Manifest.$key.Info.Path" raw "$dest_manifest")
+            if [ -z "$src_path" ]; then
+                src_path="$path"
+                cp "$ddi_dir/Restore/$src_path" "$dest_dir/$file"
+                echo "Copied: $ddi_name/$file ($src_path)"
+            elif [ "$path" != "$src_path" ]; then
+                echo "Warning: $ddi_name cryptex identities disagree on $key ($src_path vs $path)"
+            fi
+            plutil -replace "BuildIdentities.$i.Manifest.$key.Info.Path" -string "$file" "$dest_manifest"
+            i=$((i + 1))
+        done
+    done
+    cp "$ddi_dir/version.plist" "$dest_dir/version.plist"
+    plutil -convert xml1 "$dest_manifest"
+    echo "Wrote: $ddi_name/BuildManifest.plist ($count identities)"
 done
 
 echo '--------------------------------------------------'
